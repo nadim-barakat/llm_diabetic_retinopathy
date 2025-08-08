@@ -1,0 +1,10 @@
+[
+  {
+    "image_name": "IDRiD_017.jpg",
+    "llm_response": {
+      "description": "The retinal fundus image shows multiple hard exudates arranged in a circinate pattern, particularly in the macular region. There are no signs of neovascularization, vitreous or preretinal hemorrhage. No significant venous beading or intraretinal microvascular abnormalities (IRMA) are observed. There are no dense or widespread intraretinal hemorrhages.",
+      "referral": 0,
+      "grade": 2
+    }
+  }
+]

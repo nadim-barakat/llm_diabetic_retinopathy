@@ -1,0 +1,81 @@
+Using continuous score:
+  Threshold: 20.0
+  F1: 0.5142857142857142
+  Accuracy: 0.6699029126213593
+  Confusion: [[51 20]
+ [14 18]]
+
+Using discrete grade:
+  F1: 0.11764705882352941
+  Accuracy: 0.7087378640776699
+  Confusion: [[71  0]
+ [30  2]]
+
+
+ *******
+ Great — this comparison is very informative. Let's walk through what these two sets of metrics are telling you about your **continuous score vs. discrete grade** predictions.
+
+---
+
+## 🔍 Confusion Matrix Breakdown
+
+### **Using Continuous Score (Threshold = 20)**
+
+```
+True labels vs. predictions:
+               Predicted
+               0     1
+            -------------
+Actual  0 |   51    20     → TN, FP
+        1 |   14    18     → FN, TP
+```
+
+* **True Positives (TP)** = 18 → Correctly referred
+* **False Negatives (FN)** = 14 → Missed referrals
+* **False Positives (FP)** = 20 → Over-referred
+* **True Negatives (TN)** = 51 → Correctly said no referral
+
+### **Using Discrete Grade (threshold ≥ 3)**
+
+```
+True labels vs. predictions:
+               Predicted
+               0     1
+            -------------
+Actual  0 |   71     0     → TN, FP
+        1 |   30     2     → FN, TP
+```
+
+* **TP** = 2 → Very few correctly referred
+* **FN** = 30 → Missed most referrals
+* **FP** = 0 → Never over-refers
+* **TN** = 71 → Very conservative
+
+---
+
+## ✅ Metric Interpretation
+
+| Metric       | Continuous Score (T=20) | Discrete Grade (≥3) | Interpretation                                                                                 |
+| ------------ | ----------------------- | ------------------- | ---------------------------------------------------------------------------------------------- |
+| **F1**       | 0.51                    | 0.12                | Continuous score has far better balance of precision and recall                                |
+| **Accuracy** | 0.67                    | 0.71                | Discrete is slightly more "accurate" overall but misleading (it predicts mostly "no referral") |
+| **TP**       | 18                      | 2                   | Continuous catches many more real referrals                                                    |
+| **FP**       | 20                      | 0                   | Discrete never over-refers, but at a huge cost (30 missed referrals)                           |
+
+---
+
+## 🧠 Key Takeaways
+
+* **The discrete model is too conservative**: it avoids all false positives but misses **almost all true positives** (recall = 2 / 32 = 6.25%).
+* **The continuous model (threshold 20)** makes some false referrals but **catches 18/32** referrals → much better sensitivity.
+* **F1 score is much higher** with the continuous score — meaning it’s **better balanced** for real-world use (especially in medicine, where false negatives can be dangerous).
+
+---
+
+### 🎯 Conclusion
+
+* The **discrete grade is under-referring** — too strict.
+* The **continuous score** (when thresholded at 20) gives a **better tradeoff** between catching real referrals and avoiding false alarms.
+* Even though **accuracy is slightly lower**, the model is **clinically more useful** because it’s not missing almost every patient who needs help.
+
+Let me know if you want help picking the best threshold to balance **false positives vs false negatives**, or if you want to visualize this.

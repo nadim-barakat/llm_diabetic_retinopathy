@@ -1,0 +1,207 @@
+zero shot medgemma descriptions to gpt 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.75      0.69      0.72        39
+    Referral       0.82      0.86      0.84        64
+
+    accuracy                           0.80       103
+   macro avg       0.79      0.78      0.78       103
+weighted avg       0.79      0.80      0.79       103
+
+Confusion Matrix:
+[[27 12]
+ [ 9 55]]
+Sensitivity: 0.86
+Specificity: 0.69
+
+Score: 0.00, Count: 13
+Score: 10.00, Count: 8
+Score: 20.00, Count: 11
+Score: 25.00, Count: 2
+Score: 30.00, Count: 2
+Score: 40.00, Count: 14
+Score: 50.00, Count: 1
+Score: 60.00, Count: 11
+Score: 70.00, Count: 10
+Score: 75.00, Count: 19
+Score: 85.00, Count: 7
+Score: 90.00, Count: 1
+Score: 100.00, Count: 4
+
+***********
+70% bias that is always opposite 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.39      0.97      0.55        39
+    Referral       0.80      0.06      0.12        64
+
+    accuracy                           0.41       103
+   macro avg       0.59      0.52      0.34       103
+weighted avg       0.64      0.41      0.28       103
+
+Confusion Matrix:
+[[38  1]
+ [60  4]]
+Sensitivity: 0.06
+Specificity: 0.97
+
+Score: 5.00, Count: 27
+Score: 10.00, Count: 46
+Score: 15.00, Count: 2
+Score: 20.00, Count: 21
+Score: 30.00, Count: 2
+Score: 40.00, Count: 1
+Score: 45.00, Count: 1
+Score: 65.00, Count: 3
+**********
+80% with opposite
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.38      0.97      0.55        39
+    Referral       0.67      0.03      0.06        64
+
+    accuracy                           0.39       103
+   macro avg       0.52      0.50      0.30       103
+weighted avg       0.56      0.39      0.24       103
+
+Confusion Matrix:
+[[38  1]
+ [62  2]]
+ 
+Sensitivity: 0.03
+Specificity: 0.97
+Score: 5.00, Count: 25
+Score: 10.00, Count: 49
+Score: 15.00, Count: 1
+Score: 20.00, Count: 24
+Score: 30.00, Count: 1
+Score: 40.00, Count: 1
+Score: 60.00, Count: 1
+Score: 65.00, Count: 1
+
+*****
+90% opposite 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.38      0.97      0.55        39
+    Referral       0.67      0.03      0.06        64
+
+    accuracy                           0.39       103
+   macro avg       0.52      0.50      0.30       103
+weighted avg       0.56      0.39      0.24       103
+
+Confusion Matrix:
+[[38  1]
+ [62  2]]
+Sensitivity: 0.03
+Specificity: 0.97
+
+Score: 5.00, Count: 34
+Score: 10.00, Count: 44
+Score: 15.00, Count: 3
+Score: 20.00, Count: 19
+Score: 40.00, Count: 1
+Score: 60.00, Count: 1
+Score: 65.00, Count: 1
+
+***********
+Using Medgemma referral value to gpt with image 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.58      0.97      0.73        39
+    Referral       0.97      0.58      0.73        64
+
+    accuracy                           0.73       103
+   macro avg       0.78      0.78      0.73       103
+weighted avg       0.83      0.73      0.73       103
+
+Confusion Matrix:
+[[38  1]
+ [27 37]]
+Sensitivity: 0.58
+Specificity: 0.97
+
+
+Best threshold by Youden's J: 60.00
+Best threshold: 60.00
+TPR at best threshold: 0.58
+FPR at best threshold: 0.00
+Pearson: PearsonRResult(statistic=np.float64(0.48550117902162293), pvalue=np.float64(2.0149372389248377e-07))
+Spearman: SignificanceResult(statistic=np.float64(0.5362643386227801), pvalue=np.float64(5.279877218225108e-09))
+MAE: 25.145631067961165
+RMSE: 35.37592840731691
+Score: 5.00, Count: 21
+Score: 10.00, Count: 43
+Score: 15.00, Count: 1
+Score: 40.00, Count: 1
+Score: 60.00, Count: 7
+Score: 65.00, Count: 24
+Score: 70.00, Count: 2
+Score: 75.00, Count: 3
+Score: 85.00, Count: 1
+
+
+
+
+**************
+gpt Using medgemma description and image 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.74      0.64      0.68        39
+    Referral       0.80      0.86      0.83        64
+
+    accuracy                           0.78       103
+   macro avg       0.77      0.75      0.76       103
+weighted avg       0.77      0.78      0.77       103
+
+Confusion Matrix:
+[[25 14]
+ [ 9 55]]
+Sensitivity: 0.86
+Specificity: 0.64
+****************
+gpt on medgemma referral and descrip and image 
+binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.79      0.49      0.60        39
+    Referral       0.75      0.92      0.83        64
+
+    accuracy                           0.76       103
+   macro avg       0.77      0.70      0.71       103
+weighted avg       0.76      0.76      0.74       103
+
+Confusion Matrix:
+[[19 20]
+ [ 5 59]]
+Sensitivity: 0.92
+Specificity: 0.49
+
+
+Best threshold by Youden's J: 75.00
+2025-07-20 10:57:54.093 python[44769:2338537] +[CATransaction synchronize] called within transaction
+Best threshold: 75.00
+TPR at best threshold: 0.69
+FPR at best threshold: 0.03
+Pearson: PearsonRResult(statistic=np.float64(0.6439174642087473), pvalue=np.float64(2.1845320888935996e-13))
+Spearman: SignificanceResult(statistic=np.float64(0.7160892891681823), pvalue=np.float64(1.861063942435304e-17))
+MAE: 24.514563106796118
+RMSE: 31.037872262175235
+Score: 5.00, Count: 13
+Score: 10.00, Count: 9
+Score: 20.00, Count: 2
+Score: 30.00, Count: 2
+Score: 40.00, Count: 7
+Score: 55.00, Count: 2
+Score: 60.00, Count: 11
+Score: 65.00, Count: 7
+Score: 70.00, Count: 5
+Score: 75.00, Count: 13
+Score: 85.00, Count: 29
+Score: 95.00, Count: 3

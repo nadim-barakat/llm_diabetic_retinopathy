@@ -1,0 +1,37 @@
+Using Medgemma referral value to gpt 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.58      0.97      0.73        39
+    Referral       0.97      0.58      0.73        64
+
+    accuracy                           0.73       103
+   macro avg       0.78      0.78      0.73       103
+weighted avg       0.83      0.73      0.73       103
+
+Confusion Matrix:
+[[38  1]
+ [27 37]]
+Sensitivity: 0.58
+Specificity: 0.97
+
+
+Best threshold by Youden's J: 60.00
+Best threshold: 60.00
+TPR at best threshold: 0.58
+FPR at best threshold: 0.00
+Pearson: PearsonRResult(statistic=np.float64(0.48550117902162293), pvalue=np.float64(2.0149372389248377e-07))
+Spearman: SignificanceResult(statistic=np.float64(0.5362643386227801), pvalue=np.float64(5.279877218225108e-09))
+MAE: 25.145631067961165
+RMSE: 35.37592840731691
+Score: 5.00, Count: 21
+Score: 10.00, Count: 43
+Score: 15.00, Count: 1
+Score: 40.00, Count: 1
+Score: 60.00, Count: 7
+Score: 65.00, Count: 24
+Score: 70.00, Count: 2
+Score: 75.00, Count: 3
+Score: 85.00, Count: 1
+
+*********

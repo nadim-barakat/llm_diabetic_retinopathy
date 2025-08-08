@@ -1,0 +1,63 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.750     0.176     0.286        34
+           1      0.065     0.400     0.111         5
+           2      0.414     0.375     0.393        32
+           3      0.469     0.789     0.588        19
+           4      0.667     0.154     0.250        13
+
+    accuracy                          0.359       103
+   macro avg      0.473     0.379     0.326       103
+weighted avg      0.550     0.359     0.362       103
+
+Confusion Matrix:
+[[ 6 18  9  1  0]
+ [ 1  2  2  0  0]
+ [ 1  9 12 10  0]
+ [ 0  2  1 15  1]
+ [ 0  0  5  6  2]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.88      0.85      0.86        71
+    Referral       0.69      0.75      0.72        32
+
+    accuracy                           0.82       103
+   macro avg       0.78      0.80      0.79       103
+weighted avg       0.82      0.82      0.82       103
+
+Confusion Matrix:
+[[60 11]
+ [ 8 24]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.95      0.54      0.68        71
+    Referral       0.48      0.94      0.63        32
+
+    accuracy                           0.66       103
+   macro avg       0.71      0.74      0.66       103
+weighted avg       0.80      0.66      0.67       103
+
+Confusion Matrix:
+[[38 33]
+ [ 2 30]]
+
+ ***************
+ | Metric         | Without | With context | Improvement |
+| -------------- | ------- | ------------ | ----------- |
+| Accuracy       | 0.78    | **0.82**     | +0.04       |
+| Referral F1    | 0.68    | **0.72**     | +0.04       |
+| No Referral F1 | 0.83    | **0.86**     | +0.03       |
+| Macro F1       | 0.75    | **0.79**     | +0.04       |
+
+
+Interpretation:
+Adding brief clinical context helps the model:
+
+Avoid over-calling referrals (fewer false positives)
+
+Retain or slightly improve sensitivity
+
+Refine decisions in borderline cases (especially grade 2/3)

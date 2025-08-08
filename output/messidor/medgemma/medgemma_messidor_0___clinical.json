@@ -1,0 +1,2277 @@
+[
+  {
+    "image_name": "20051020_45050_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous dilation and tortuosity. The presence of these findings suggests a high risk of progression to more severe diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_45110_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous dilation and tortuosity. The overall appearance suggests a high level of retinal damage. The presence of these findings indicates a high risk of vision loss.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_45137_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is evidence of venous beading. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_54209_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_55346_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is significant vascular occlusion and edema. The optic disc appears normal. There are no signs of neovascularization or vitreous hemorrhage.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_58214_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous changes. The overall appearance suggests moderate to severe non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_61998_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some small hemorrhages present, but no other significant findings such as microaneurysms, exudates, or venous beading. The image quality is poor, making it difficult to assess for more subtle features.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_62385_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is significant vascular occlusion, with many areas of retinal ischemia. The presence of these findings indicates a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_62709_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous dilation and tortuosity. The overall appearance suggests a high-grade diabetic retinopathy. The presence of these findings warrants immediate referral to an ophthalmologist.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_62802_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, exudates, and cotton wool spots. There is also evidence of neovascularization, particularly in the periphery. The overall appearance suggests a high-severity diabetic retinopathy with significant retinal damage and potential for further complications.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051020_63829_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_36208_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of vascular occlusion, including areas of retinal whitening. The overall appearance suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_39552_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows retinal findings consistent with diabetic retinopathy. There are several hemorrhages present, some appearing as small, dot-like lesions. There are also some areas of cotton wool spots, which are indicative of nerve fiber layer infarcts. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_40074_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macula. There are also some small hemorrhages visible. The optic disc appears normal. No significant venous changes or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_40377_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The overall appearance suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_40450_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading. There is also evidence of neovascularization. The overall appearance is consistent with severe non-proliferative diabetic retinopathy (NPDR) or proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_51804_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present throughout the retina. There are also some hemorrhages and cotton wool spots. The image shows some signs of vascular changes, including some areas of retinal thickening. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_51936_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_52127_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, particularly in the macula and surrounding areas. There are also signs of cotton wool spots and possible microaneurysms. The overall appearance suggests a high level of retinal vascular damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_58683_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of exudates. The presence of these findings indicates a high level of diabetic retinopathy. The image also shows some areas of retinal whitening, suggesting edema.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_59459_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of exudates. The overall appearance suggests a high level of retinal damage. The patient's history of T2DM with a high HbA1c (10.5%) and delayed referral further supports the presence of advanced diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051021_59504_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots throughout the retina. There are also signs of venous dilation and occlusion. The overall appearance suggests a severe stage of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051110_38194_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal in size and shape. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051116_43721_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, but no other significant findings like hemorrhages, exudates, or venous beading. The image quality is adequate.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051116_43954_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear optic disc. There are no obvious signs of significant retinal hemorrhages, exudates, or neovascularization. The vasculature appears normal. There are no cotton wool spots visible.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051116_44816_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some hemorrhages present, but they appear to be small and scattered. No significant microaneurysms, exudates, or cotton wool spots are readily apparent. The optic disc appears normal. There is no evidence of neovascularization or vitreous hemorrhage.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051116_55649_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small hemorrhages present, but no other significant findings such as microaneurysms, exudates, or venous changes. The optic disc appears normal. No neovascularization is visible.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051116_58864_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of vascular changes, including areas of ischemia and edema. The presence of these findings suggests diabetic retinopathy, specifically moderate non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051130_54077_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a normal optic disc and retinal vessels. There are no visible microaneurysms, hemorrhages, exudates, or other signs of diabetic retinopathy.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051130_55269_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051130_58716_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear view of the optic disc and retinal vessels. There are no obvious signs of microaneurysms, hemorrhages, exudates, or cotton wool spots. The vessels appear normal in caliber. No neovascularization is visible.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051130_59029_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051130_59930_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal, and the retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051130_60822_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, but no other significant findings like hemorrhages, exudates, or venous beading. The image appears to be a relatively normal fundus view.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051201_38349_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The image quality is adequate.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051202_36970_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some microaneurysms present. There are also some hemorrhages present. There are no signs of neovascularization or significant venous changes.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051202_37199_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small hemorrhages present. No other significant findings are immediately apparent.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051202_55582_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are several hemorrhages present, some of which appear to be flame-shaped. There are also some cotton wool spots visible. The optic disc appears normal. The image quality is adequate.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051205_33006_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of vascular changes, including possible venous beading. The overall appearance suggests a high level of retinal damage. The presence of these findings indicates a high risk of vision loss.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051205_35142_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are microaneurysms, hemorrhages, and cotton wool spots. There are also signs of venous beading. The patient has a history of T2DM and blurry night vision.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051205_58409_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal, and the retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051205_59715_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are a few microaneurysms present. The optic disc appears normal. No significant hemorrhages, exudates, or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051207_55266_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus with several findings. There are microaneurysms present, particularly in the macula. There are also some small hemorrhages visible. The optic disc appears normal. The image quality is adequate.",
+      "referral": 0,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051208_41318_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous dilation and tortuosity. The overall appearance suggests a high-severity diabetic retinopathy. There is also some evidence of retinal edema.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051208_42314_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of vascular changes and possible retinal edema. The overall appearance suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051212_41144_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, particularly in the nerve fiber layer and around the optic disc. There are also signs of cotton wool spots and possible microaneurysms. The overall appearance suggests a high level of retinal vascular damage. The image also shows some signs of retinal edema.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051213_62188_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, particularly in the macula. There are also some small hemorrhages present. No significant venous changes or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051213_62251_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051213_62383_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive intraretinal hemorrhages, with yellow-white exudates present. There are also some cotton wool spots visible. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051213_62648_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal abnormalities, including numerous microaneurysms, hemorrhages, and exudates. There is also evidence of neovascularization throughout the retina. The presence of these findings indicates a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051213_62705_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is also evidence of neovascularization, particularly in the optic disc and surrounding areas. The overall appearance suggests a severe stage of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_40767_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small hemorrhages present, but no other significant findings are apparent. The image quality is adequate.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_40849_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macula. There are also some hemorrhages present, which are small and scattered. There are no signs of venous beading, neovascularization, or significant exudates. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_40912_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There appears to be some degree of retinal edema and vascular changes. The overall appearance suggests a high-grade diabetic retinopathy, potentially Grade 3 or 4.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_51071_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, particularly in the macular region. There are also some small hemorrhages present. No significant venous changes or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_51569_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high-severity diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_51733_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is also evidence of venous dilation and tortuosity. The presence of these findings indicates a severe stage of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_51811_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are multiple microaneurysms present, particularly in the retinal vessels. There are also some hemorrhages visible, suggesting some degree of vascular damage. The overall appearance indicates moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_52242_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is significant vascular sheathing and perivascular exudates. The optic disc appears normal. There is evidence of retinal detachment, with fluid tracking along the retinal vessels. The overall appearance is consistent with severe diabetic retinopathy.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_56269_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macula. There are also some small hemorrhages present. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_56565_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macula. There are also some small hemorrhages present, likely in the nerve fiber layer. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_56821_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a severe level of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_56944_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages present, although they appear to be relatively small. There are also some cotton wool spots present. The overall appearance suggests moderate non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_56971_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present, particularly in the macula. There are also some hemorrhages and cotton wool spots. The image also shows some signs of retinal edema.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051214_57154_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_45245_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There appears to be significant vascular damage throughout the retina. The presence of these findings suggests a high risk of vision loss.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_45619_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, but no other significant findings such as hemorrhages, exudates, or venous beading. The image quality is adequate.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_46156_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some small hemorrhages present, but no other significant findings are apparent. The optic disc appears normal. The image quality is adequate.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_46624_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, some appearing to be flame-shaped. There are also some cotton wool spots visible. The optic disc appears somewhat enlarged, possibly with some edema. There are also some signs of retinal thickening. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_46660_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous dilation and tortuosity. The overall appearance suggests a high level of retinal vascular damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_46847_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, particularly in the macula and surrounding areas. There are also signs of cotton wool spots. The overall appearance suggests a moderate to severe non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_47000_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The overall appearance suggests a high-severity diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20051216_47024_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is significant vascular occlusion and edema. The presence of these findings indicates a high level of retinal damage. There is no evidence of neovascularization or vitreous hemorrhage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060407_45477_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are hemorrhages present, as well as some cotton wool spots. The vasculature appears somewhat irregular. There is some evidence of microaneurysms.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060407_45494_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macular region. There are also some small hemorrhages visible. The vasculature appears relatively normal, with no significant venous beading or other signs of severe NPDR. There is no evidence of neovascularization or vitreous hemorrhage.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_39859_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a normal optic disc and retinal vessels. There are no visible microaneurysms, hemorrhages, exudates, or other signs of diabetic retinopathy.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_40481_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are some microaneurysms present, and some hemorrhages are visible. No significant vascular changes or neovascularization are apparent.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_41356_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some hemorrhages present, and some microaneurysms are visible. The image quality is not ideal, and it is difficult to assess the severity of the findings with certainty.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_43959_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. There are some hemorrhages present. There are some cotton wool spots present.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_46874_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macula. There are also some hemorrhages, likely small, present. The overall appearance suggests moderate non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_47042_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The image appears relatively clear and shows a normal retinal appearance.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060410_47351_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some small hemorrhages visible, likely in the nerve fiber layer as well. The vasculature appears relatively normal, with no significant venous changes or neovascularization. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_58971_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, particularly in the nerve fiber layer. There are also some small hemorrhages present. The optic disc appears normal. No significant venous changes or neovascularization are evident.",
+      "referral": 0,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_60263_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present, particularly in the macula. There are also some hemorrhages present, which are small and scattered. No significant venous changes or neovascularization are evident.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_61029_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some microaneurysms present. No significant hemorrhages, exudates, or other signs of severe diabetic retinopathy are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_61624_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous changes. The overall appearance suggests a high level of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_61641_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The presence of these findings indicates a high risk of vision loss. The patient's history of T2DM, high HbA1c, and blurry night vision further supports the need for urgent ophthalmological evaluation.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_61869_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. The optic disc appears normal. There are no significant hemorrhages, exudates, or neovascularization visible in this image.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_62228_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a few microaneurysms, particularly in the macula. There are also some small hemorrhages present. No significant venous changes or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060411_62373_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots throughout the retina. There are also signs of venous dilation and tortuosity. The overall appearance suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_51656_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph. There are several microaneurysms present, particularly in the macula. There are also some small hemorrhages present. No significant venous changes or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_51952_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The overall appearance suggests a high severity of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_52520_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots throughout the retina. There is also evidence of venous beading. The overall appearance suggests severe non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_52668_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows retinal findings consistent with diabetic retinopathy. There are several hemorrhages present, particularly in the nerve fiber layer. There are also some cotton wool spots visible. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_52931_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_58287_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, particularly in the macula region. Some cotton wool spots are also visible. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_58747_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small hemorrhages present, but no severe hemorrhages, venous beading, or neovascularization. The overall appearance is consistent with mild non-proliferative diabetic retinopathy.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_58945_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are microaneurysms present, particularly in the macula. There are also some hemorrhages visible. No significant venous changes or neovascularization are apparent.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_59423_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some microaneurysms present. There are also some hemorrhages present. There are no signs of neovascularization or significant venous changes.",
+      "referral": 0,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_61169_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present throughout the retina. There are also some hemorrhages present. The image appears to be a fundus photograph of the retina.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_61222_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several hemorrhages present, some appearing as small red dots and others as larger, more confluent areas. There are also some cotton wool spots visible. The optic disc appears normal. The image quality is adequate.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060412_62960_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is significant vascular damage throughout the retina. The presence of these findings indicates a high level of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060522_45069_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are some microaneurysms present, but no other significant findings such as hemorrhages, exudates, or venous beading. The image appears to be a relatively clear view of the retina.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060522_45248_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several hemorrhages present, including some that appear to be flame-shaped. There are also some cotton wool spots visible. The optic disc appears normal. The retinal vessels are somewhat irregular. There is also some evidence of microaneurysms.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060522_45541_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is also evidence of venous beading. The optic disc appears normal. There is no mention of neovascularization or vitreous hemorrhage.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060522_45583_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is also evidence of venous beading. The overall appearance is consistent with severe non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060522_45935_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The image is of good quality and shows the fundus clearly.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_43196_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous dilation and tortuosity. The overall appearance suggests a high-severity diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_48102_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are numerous microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages present, appearing as small, red spots. The optic disc appears normal. The image quality is adequate.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_48499_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of vascular changes, including venous dilation and tortuosity. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_49288_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some hemorrhages present, likely in the nerve fiber layer. The vasculature appears relatively normal. No significant neovascularization or other severe features are evident.",
+      "referral": 0,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_49591_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with a clear optic disc. There are no obvious signs of microaneurysms, hemorrhages, exudates, or cotton wool spots. The image appears to be a normal fundus view.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_49942_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows retinal findings consistent with diabetic retinopathy. There are several hemorrhages present, some appearing as small, red dots, and others as larger, more confluent areas. There are also some cotton wool spots visible, which are areas of retinal nerve fiber layer infarction. The vasculature appears somewhat irregular, with some areas of thickening and narrowing. The overall impression is of moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_50003_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows retinal findings consistent with diabetic retinopathy. There are numerous microaneurysms present throughout the retina. There are also several hemorrhages and cotton wool spots visible. The presence of these findings suggests a moderate to severe non-proliferative diabetic retinopathy (NPDR).",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_50489_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is significant vascular occlusion and edema. The presence of these findings indicates a high level of retinal damage.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_50790_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high-severity diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060523_50806_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present throughout the retina. There are also some hemorrhages and cotton wool spots. The overall appearance suggests moderate to severe non-proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060529_56853_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macular region. There are also some small hemorrhages visible. No significant venous changes or neovascularization are apparent.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060529_57030_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060529_57063_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The overall appearance suggests a high severity of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060529_57447_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The fundus appears to be quite congested.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060530_53271_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, particularly in the nerve fiber layer and in the retinal vessels. There are also signs of cotton wool spots, suggesting retinal nerve fiber layer infarcts. The overall appearance indicates a high level of retinal vascular damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060530_54556_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive microaneurysms, hemorrhages, and cotton wool spots throughout the retina. There are also signs of venous dilation and tortuosity. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "20060530_55724_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of vascular changes, including possible venous beading. The overall appearance suggests a high level of retinal damage. The patient's history of T2DM with an HbA1c of 9.5% and missed follow-ups further supports the likelihood of advanced diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "67-year-old with T2DM for 20 years. HbA1c 9.5%. Floaters, trouble reading. Access to care: Missed multiple follow-ups.",
+      "true_grade": 3,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000066.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000298.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000356.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some microaneurysms present. The image quality is not optimal, making it difficult to assess for other features like hemorrhages, exudates, or venous changes. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000472.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macula. There are also some small hemorrhages. No significant venous changes or neovascularization are apparent.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000501.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal, and the retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000516.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000726.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. There are also some hemorrhages present, but they are not dense or widespread. There is no evidence of venous beading, neovascularization, or significant IRMA. The image appears to be a Grade 2 NPDR.",
+      "referral": 0,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000732.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, but no other significant findings such as hemorrhages, exudates, or venous beading. The optic disc appears normal. No neovascularization is visible.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000826.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macular region. There are also some small hemorrhages visible. No significant venous changes or neovascularization are apparent.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000848.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some microaneurysms present. There are no hemorrhages, exudates, or other signs of significant retinopathy. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000880.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM000881.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001095.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. No significant hemorrhages, exudates, or other signs of diabetic retinopathy are immediately apparent.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001161.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001253.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present, particularly in the macular region. There are also some small hemorrhages visible. The optic disc appears normal. No significant venous changes or neovascularization are evident.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001423.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are numerous small, red dots scattered throughout the fundus, which are likely microaneurysms. There are no obvious hemorrhages, exudates, or other signs of significant retinal damage. The optic disc appears normal. The image is somewhat blurry, which could be due to the patient's age or other factors.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001468.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. The optic disc appears normal. There are no significant hemorrhages, exudates, or neovascularization visible in this image.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001644.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small, dot-like hemorrhages present, particularly in the periphery. No significant microaneurysms are readily apparent. The optic disc appears normal. There are no signs of venous beading or neovascularization. The image quality is adequate.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001751.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is significant vascular damage throughout the retina. The presence of these findings indicates a high level of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001752.JPG",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, microaneurysms, and cotton wool spots. There is significant retinal edema, and the optic disc appears somewhat obscured by the retinal findings. The overall appearance suggests a high degree of retinal damage.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001941.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view with numerous microaneurysms, hemorrhages, and cotton wool spots. There are also signs of retinal edema. The image is difficult to interpret due to the presence of numerous artifacts and the overall poor image quality. The presence of numerous hemorrhages and cotton wool spots suggests a moderate to severe diabetic retinopathy. The presence of microaneurysms, hemorrhages, and cotton wool spots, without severe features, suggests a moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM001942.JPG",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, with numerous small and large hemorrhages present throughout the fundus. There are also signs of cotton wool spots, which appear as fluffy, white lesions. The presence of these findings indicates a high level of retinal damage. The image also shows some areas of retinal edema, which can contribute to the overall severity of the DR.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002148.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, but no other significant findings such as hemorrhages, exudates, or venous beading. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002486.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of neovascularization, particularly in the periphery. The overall appearance suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002487.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of exudates. The overall appearance suggests a high level of retinal damage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002584.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. There are no hemorrhages, exudates, or other signs of diabetic retinopathy. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002635.JPG",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, with a significant number of hemorrhages present in multiple quadrants. There are also signs of cotton wool spots. The overall appearance suggests a high level of retinal damage. There is no mention of neovascularization or vitreous hemorrhage.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002636.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal abnormalities, including numerous hemorrhages, exudates, and areas of retinal detachment. There is significant vascular distortion and a high density of microaneurysms. The presence of these findings suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 4
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002695.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. The optic disc appears normal. There are no significant hemorrhages, exudates, or neovascularization visible in this image.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002938.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several hemorrhages present, particularly in the macula region. Some microaneurysms are also visible. The optic disc appears normal. There is no evidence of significant venous beading or neovascularization.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002953.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present. There are some hemorrhages present. There are some cotton wool spots present. There are some venous changes present. There is some neovascularization present.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "58-year-old with T2DM for 12 years. HbA1c 8.2%. Blurry night vision. Access to care: Routine care.",
+      "true_grade": 2,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM002997.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003229.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is significant vascular damage throughout the retina. The presence of these findings indicates a high level of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003230.JPG",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, with numerous microaneurysms present. There are also signs of cotton wool spots. The fundus appears congested.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003359.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several microaneurysms present. There are also some hemorrhages present. There are also some cotton wool spots present. There is some venous dilation present. There is some mild retinal thickening present. There is some pigmentary changes present. There is some mild macular edema present.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003360.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The presence of these findings, particularly the extensive hemorrhages and venous beading, indicates a high risk of vision loss. There is also some evidence of neovascularization, although it is not as prominent as the hemorrhages.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003454.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003694.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003695.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal, and the retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003719.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some microaneurysms present, but no other significant findings such as hemorrhages, exudates, or venous beading. The image quality is adequate.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003878.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003879.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There is a small, round, red lesion present in the macula, which could represent a small hemorrhage or macular edema. The optic disc appears normal. The retinal vessels are unremarkable. No significant hemorrhages, exudates, or neovascularization are evident.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM003950.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The image appears to be a fundus photograph, possibly taken with a camera. The image quality is not sufficient to assess for subtle findings.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004028.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The image appears to be a normal fundus view.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004346.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several hemorrhages present, some appearing as small dots and others as larger, confluent areas. There are also some cotton wool spots visible. The optic disc appears normal. There is some evidence of retinal whitening. The image quality is somewhat limited, making it difficult to assess for more subtle findings.",
+      "referral": 1,
+      "grade": 2
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004639.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004797.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004086.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small hemorrhages present, but no significant signs of severe non-proliferative diabetic retinopathy (NPDR) or proliferative diabetic retinopathy (PDR). No neovascularization is visible. The image appears to be a relatively early stage of diabetic retinopathy.",
+      "referral": 0,
+      "grade": 1
+    },
+    "vignette": {
+      "vignette": "30-year-old with T1DM for 10 years. HbA1c 8.0%. Occasional blurred vision. Access to care: Annual screens.",
+      "true_grade": 1,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004183.JPG",
+    "llm_response": {
+      "description": "The image shows numerous microaneurysms, hemorrhages, and cotton wool spots throughout the retina. There is also evidence of venous dilation and tortuosity. The presence of these findings suggests a significant degree of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 3
+    },
+    "vignette": {
+      "vignette": "70-year-old with T2DM for 25 years. HbA1c 10.5%. Floaters, vision dimming. Access to care: Delayed referral.",
+      "true_grade": 4,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004269.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The retinal vessels appear normal in caliber and distribution. The optic disc appears unremarkable.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  },
+  {
+    "image_name": "IM004313.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots. The optic disc appears normal. The image quality is adequate.",
+      "referral": 0,
+      "grade": 0
+    },
+    "vignette": {
+      "vignette": "22-year-old with T1DM for 3 years. HbA1c 6.2%. No vision complaints. Access to care: Regular endocrinology follow-up.",
+      "true_grade": 0,
+      "vignette_type": "regular"
+    }
+  }
+]

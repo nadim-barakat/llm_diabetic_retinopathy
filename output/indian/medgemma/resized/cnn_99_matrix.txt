@@ -1,0 +1,109 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.882     0.441     0.588        34
+           1      0.000     0.000     0.000         5
+           2      0.387     0.375     0.381        32
+           3      0.393     0.579     0.468        19
+           4      0.333     0.462     0.387        13
+
+    accuracy                          0.427       103
+   macro avg      0.399     0.371     0.365       103
+weighted avg      0.526     0.427     0.448       103
+
+Confusion Matrix:
+[[15  5 13  0  1]
+ [ 1  0  4  0  0]
+ [ 0  3 12 12  5]
+ [ 1  1  0 11  6]
+ [ 0  0  2  5  6]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.93      0.75      0.83        71
+    Referral       0.61      0.88      0.72        32
+
+    accuracy                           0.79       103
+   macro avg       0.77      0.81      0.77       103
+weighted avg       0.83      0.79      0.79       103
+
+Confusion Matrix:
+[[53 18]
+ [ 4 28]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.95      0.58      0.72        71
+    Referral       0.50      0.94      0.65        32
+
+    accuracy                           0.69       103
+   macro avg       0.73      0.76      0.69       103
+weighted avg       0.81      0.69      0.70       103
+
+Confusion Matrix:
+[[41 30]
+ [ 2 30]]
+
+
+ *************
+ Here’s a full comparison of all **four scenarios**:
+**Zero-shot**, **CNN 80%**, **CNN 95%**, and **CNN 99% confidence**.
+
+---
+
+## 🔢 Multiclass Grading (0–4)
+
+| Metric             | Zero-Shot | CNN @ 80% | CNN @ 95% | CNN @ 99% |
+| ------------------ | --------- | --------- | --------- | --------- |
+| **Accuracy**       | 29.1%     | **47.6%** | 44.7%     | 42.7%     |
+| **Macro F1**       | 27.5%     | **42.9%** | 38.7%     | 36.5%     |
+| **Weighted F1**    | 31.9%     | **49.2%** | 46.6%     | 44.8%     |
+| **Class 0 Recall** | 17.6%     | 44.1%     | 44.1%     | **44.1%** |
+| **Class 1 Recall** | 0.0%      | **20.0%** | 0.0%      | 0.0%      |
+| **Class 3 F1**     | 43.5%     | **52.2%** | 50.0%     | 46.8%     |
+
+### Key Points:
+
+* **Multiclass performance declines as CNN confidence increases beyond 80%**.
+* **Class 1 recall drops to zero again** for 95% and 99%, likely due to the LLM deferring too heavily to CNN.
+* **80% CNN** still shows the most balanced behavior.
+
+---
+
+## ✅ Binary Referral
+
+| Metric                 | Zero-Shot | CNN @ 80% | CNN @ 95% | CNN @ 99% |
+| ---------------------- | --------- | --------- | --------- | --------- |
+| **Accuracy**           | 78%       | 81%       | **82%**   | 79%       |
+| **Referral Recall**    | 75%       | **88%**   | **88%**   | **88%**   |
+| **Referral Precision** | 62%       | **64%**   | 65%       | 61%       |
+| **Referral F1**        | 68%       | 74%       | **75%**   | 72%       |
+| **No Referral Recall** | 79%       | 77%       | **79%**   | 75%       |
+
+### Key Points:
+
+* Binary referral recall stays **high (88%)** across all CNN-informed prompts.
+* **Precision and F1 decline slightly** at 99% confidence, likely due to overcalling referrals based on CNN's authority.
+* **Overall best binary performance remains with CNN @ 95%**.
+
+---
+
+## 🧠 Interpretation Summary
+
+| Behavior / Goal                            | Best Setting  | Rationale                                             |
+| ------------------------------------------ | ------------- | ----------------------------------------------------- |
+| **Multiclass grading accuracy**            | **CNN @ 80%** | Model weighs CNN input but still uses own judgment    |
+| **Binary referral accuracy**               | **CNN @ 95%** | Strongest F1 and precision for referral               |
+| **Balanced minority class (e.g. Class 1)** | CNN @ 80%     | Only one that retains some recall for rare class      |
+| **General over-reliance**                  | **CNN @ 99%** | Highest overconfidence → flattens subtle distinctions |
+
+---
+
+## 🧩 Conclusion
+
+Adding CNN input clearly helps — but there's a **sweet spot**:
+
+* **80% CNN confidence gives best multiclass performance**
+* **95% CNN confidence gives best binary referral performance**
+* **99% CNN confidence starts to over-influence the LLM**, leading to reduced diversity and flexibility, especially for rare or ambiguous classes.
+

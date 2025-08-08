@@ -1,0 +1,14 @@
+Using continuous score:
+  Threshold: 85.0
+  F1: 0.6835443037974683
+  Accuracy: 0.7572815533980582
+  Confusion: [[51 20]
+ [ 5 27]]
+
+Using discrete grade:
+  F1: 0.676056338028169
+  Accuracy: 0.7766990291262136
+  Confusion: [[56 15]
+ [ 8 24]]
+
+ 

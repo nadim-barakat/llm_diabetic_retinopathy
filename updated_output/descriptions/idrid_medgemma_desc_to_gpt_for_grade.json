@@ -1,0 +1,826 @@
+[
+  {
+    "image_name": "IDRiD_001.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR), which is Grade 3. This is referable diabetic retinopathy, hence the high score."
+    }
+  },
+  {
+    "image_name": "IDRiD_002.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of multiple microaneurysms and hemorrhages, particularly in the macular region, suggests moderate to severe diabetic retinopathy, which is Grade 2 or greater and requires referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_003.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of several hemorrhages and cotton wool spots indicates moderate non-proliferative diabetic retinopathy, which is considered referable (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_004.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3), which is referable. These findings suggest a high degree of diabetic retinopathy, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_005.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 100,
+      "reasoning": "The description indicates significant retinal hemorrhages, exudates, cotton wool spots, and neovascularization, which are characteristic of proliferative diabetic retinopathy (Grade 4). The presence of optic disc edema further supports a severe condition. Therefore, this is a clear case of referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_006.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, venous dilation, and tortuosity indicates moderate to severe non-proliferative diabetic retinopathy, which is referable. These findings suggest a Grade 3 level of severity."
+    }
+  },
+  {
+    "image_name": "IDRiD_007.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which is Grade 3. This level of retinopathy is referable and suggests a high severity score."
+    }
+  },
+  {
+    "image_name": "IDRiD_008.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR), which is Grade 3. This is referable diabetic retinopathy, hence the high score."
+    }
+  },
+  {
+    "image_name": "IDRiD_009.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of numerous microaneurysms and some hemorrhages indicates moderate non-proliferative diabetic retinopathy, which is Grade 2 or greater, thus requiring referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_010.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots suggests moderate to severe diabetic retinopathy, which is referable. These findings indicate at least Grade 2 diabetic retinopathy, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_011.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 100,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, cotton wool spots, and neovascularization indicates proliferative diabetic retinopathy, which is Grade 4 and requires referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_012.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several microaneurysms and some hemorrhages suggests mild to moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_013.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3), which is referable. These findings suggest a high degree of diabetic retinopathy, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_014.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of significant retinal hemorrhages and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR), which is Grade 2 or greater. Although no neovascularization is noted, the described findings suggest a high risk of progression, warranting referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_015.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages and cotton wool spots indicates a high level of diabetic retinopathy severity, likely Grade 3 (severe non-proliferative diabetic retinopathy). This warrants a referral as it is above Grade 2."
+    }
+  },
+  {
+    "image_name": "IDRiD_016.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR), which is Grade 3. This level of damage is referable and suggests a high risk of progression to proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_017.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, especially in the macula region, and cotton wool spots indicates a severe level of diabetic retinopathy, likely Grade 3. This warrants a referral as it is beyond Grade 2."
+    }
+  },
+  {
+    "image_name": "IDRiD_018.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3). This level of retinopathy is referable and suggests a high risk of progression to proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_019.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 50,
+      "reasoning": "The presence of several hemorrhages and cotton wool spots indicates moderate diabetic retinopathy, which corresponds to Grade 2. This is considered referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_020.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of significant retinal hemorrhages and numerous microaneurysms indicates moderate non-proliferative diabetic retinopathy, which is Grade 2 or greater, warranting referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_021.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of widespread retinal hemorrhages and cotton wool spots indicates significant retinal damage, consistent with moderate non-proliferative diabetic retinopathy (Grade 2 or greater). This warrants a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_022.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of widespread retinal hemorrhages, significant yellow exudates, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (Grade 3). This level of retinal damage is referable and suggests a high risk of progression to proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_023.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of significant retinal hemorrhages, numerous microaneurysms, and cotton wool spots indicates a severe stage of diabetic retinopathy, consistent with Grade 3 or higher, which is referable."
+    }
+  },
+  {
+    "image_name": "IDRiD_024.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The description mentions possible microaneurysms, which could indicate mild non-proliferative diabetic retinopathy (Grade 1). However, there are no signs of hemorrhages, exudates, or neovascularization, which are necessary for a higher grade. The presence of drusen is more indicative of age-related macular degeneration rather than diabetic retinopathy. Therefore, the findings do not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_025.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy, which is Grade 3. This is referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_026.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 100,
+      "reasoning": "The description indicates extensive retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading, which are characteristic of severe diabetic retinopathy. The mention of Grade 4 suggests proliferative diabetic retinopathy, which is a clear indication for referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_027.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3). This level of retinopathy is referable and suggests a high risk of progression to proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_028.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of numerous microaneurysms and some hemorrhages indicates moderate to severe diabetic retinopathy, which is consistent with Grade 2 or greater, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_029.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of small hemorrhages suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no signs of more severe features such as macular edema, neovascularization, or cotton wool spots, which would indicate a higher grade. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_030.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as hemorrhages, microaneurysms, exudates, or neovascularization. The optic disc and retinal vessels appear normal, suggesting no diabetic retinopathy is present. Therefore, there is no need for referral, and the severity score is 0."
+    }
+  },
+  {
+    "image_name": "IDRiD_031.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy, which is Grade 2 or greater and requires referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_032.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of widespread retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy, which is Grade 3. This level of damage is referable and close to proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_033.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, especially in the macula region, along with cotton wool spots, indicates severe retinal damage consistent with at least moderate non-proliferative diabetic retinopathy (Grade 2 or higher). This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_034.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of significant retinal hemorrhages and numerous microaneurysms, especially in the macula, indicates moderate to severe non-proliferative diabetic retinopathy. These findings suggest a high likelihood of referable diabetic retinopathy, warranting a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_035.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which is Grade 3. This warrants a referral as it is referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_036.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 90,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, and neovascularization indicates severe diabetic retinopathy, likely proliferative diabetic retinopathy, which is Grade 4 and requires referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_037.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels, optic disc, and macula appear normal, suggesting no diabetic retinopathy is present."
+    }
+  },
+  {
+    "image_name": "IDRiD_038.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of several microaneurysms, particularly in the macula region, suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no significant hemorrhages, exudates, venous beading, or neovascularization, which would indicate more severe stages. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_039.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The description indicates only subtle and possibly early signs of microaneurysms, which are not clearly defined or numerous. There are no other signs of diabetic retinopathy such as hemorrhages, exudates, cotton wool spots, or neovascularization. This suggests a very mild or possibly no diabetic retinopathy, not meeting the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_040.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, cotton wool spots, and venous beading indicates moderate to severe non-proliferative diabetic retinopathy, which is Grade 2 or greater and requires referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_041.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The presence of microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1), which is not considered referable. There are no significant hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots, indicating that the condition is not severe enough to warrant referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_042.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which is Grade 3. This warrants a referral as it is above Grade 2."
+    }
+  },
+  {
+    "image_name": "IDRiD_043.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The presence of small white dots, likely microaneurysms, suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no hemorrhages, exudates, or neovascularization, which are indicative of more severe stages. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_044.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. Therefore, the severity is Grade 0, which does not require referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_045.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several hemorrhages and microaneurysms suggests at least moderate non-proliferative diabetic retinopathy, which is Grade 2. This warrants a referral as it is considered referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_046.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several microaneurysms and some hemorrhages suggests mild to moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_047.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several microaneurysms and some hemorrhages suggests at least moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_048.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3), which is referable. These findings suggest a high degree of diabetic retinopathy, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_049.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of significant retinal hemorrhages, numerous microaneurysms, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR), which is Grade 2. This warrants a referral as it is considered referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_050.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of several retinal hemorrhages suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no signs of more severe features such as neovascularization, cotton wool spots, or venous beading, which would indicate referable diabetic retinopathy (Grade 2 or higher)."
+    }
+  },
+  {
+    "image_name": "IDRiD_051.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of multiple microaneurysms and hemorrhages indicates moderate to severe diabetic retinopathy, which is classified as Grade 2 or greater, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_052.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several hemorrhages and possible microaneurysms suggests mild to moderate non-proliferative diabetic retinopathy (NPDR), which is typically classified as Grade 2. Although there is no macular edema or neovascularization, the clustering of hemorrhages indicates a level of retinopathy that warrants referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_053.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, and possible neovascularization suggests severe non-proliferative diabetic retinopathy or early proliferative diabetic retinopathy, both of which are referable conditions."
+    }
+  },
+  {
+    "image_name": "IDRiD_054.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The description indicates the presence of microaneurysms, which are characteristic of mild non-proliferative diabetic retinopathy (Grade 1). There are no significant hemorrhages, exudates, or other signs of more advanced stages of diabetic retinopathy. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_055.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of subtle microaneurysms and hemorrhages suggests mild non-proliferative diabetic retinopathy (Grade 1), which is not considered referable. The absence of significant venous changes, neovascularization, and cotton wool spots further supports this assessment."
+    }
+  },
+  {
+    "image_name": "IDRiD_056.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 25,
+      "reasoning": "The description indicates the presence of microaneurysms, which are characteristic of mild diabetic retinopathy (Grade 1). Mild diabetic retinopathy is not considered referable, as referable diabetic retinopathy is defined as Grade 2 or greater. Therefore, the referral prediction is 0, and the severity score is set to reflect mild diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_057.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy, which is Grade 3. This warrants a referral as it is beyond Grade 2, and the severity score reflects the high likelihood of progression to proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_058.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels and optic disc appear normal, suggesting no diabetic retinopathy is present."
+    }
+  },
+  {
+    "image_name": "IDRiD_059.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of several hemorrhages, cotton wool spots, and microaneurysms indicates moderate to severe diabetic retinopathy, which is referable (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_060.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The presence of small white dots, likely microaneurysms, suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no signs of significant hemorrhages, exudates, venous beading, or neovascularization, which would indicate more advanced stages. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_061.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3). This level of severity is considered referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_062.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 85,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, venous beading, and retinal edema indicates severe diabetic retinopathy, likely Grade 3 or higher, which is referable."
+    }
+  },
+  {
+    "image_name": "IDRiD_063.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels and optic disc appear normal, suggesting no diabetic retinopathy is present."
+    }
+  },
+  {
+    "image_name": "IDRiD_064.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of several microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no significant hemorrhages, exudates, or neovascularization, which would indicate more severe stages. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_065.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates the presence of drusen, which are not specific to diabetic retinopathy and can be associated with age-related macular degeneration. There are no signs of diabetic retinopathy such as hemorrhages, exudates, cotton wool spots, or neovascularization. The retinal vessels and optic disc appear normal. Therefore, there is no evidence of diabetic retinopathy, and no referral is needed."
+    }
+  },
+  {
+    "image_name": "IDRiD_066.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of widespread retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3). This level of severity is considered referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_067.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of significant retinal hemorrhages and cotton wool spots indicates at least moderate non-proliferative diabetic retinopathy, which is consistent with Grade 2 or higher. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_068.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of several microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no significant hemorrhages, exudates, venous beading, or neovascularization, which would indicate more advanced stages. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_069.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1), which is not considered referable. There are no significant hemorrhages, exudates, or neovascularization, which would indicate more severe stages of diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_070.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 30,
+      "reasoning": "The presence of microaneurysms and small hemorrhages suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no signs of more severe features such as venous beading, cotton wool spots, or neovascularization that would indicate a higher grade. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_071.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels and optic disc appear normal, suggesting no diabetic retinopathy is present. Therefore, there is no need for referral, and the severity score is 0."
+    }
+  },
+  {
+    "image_name": "IDRiD_072.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of numerous exudates and several hemorrhages indicates significant retinal damage, consistent with moderate non-proliferative diabetic retinopathy (Grade 2 or higher), warranting referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_073.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several retinal hemorrhages and microaneurysms suggests at least moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2 or greater, warranting referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_074.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of retinal hemorrhages and cotton wool spots suggests at least moderate non-proliferative diabetic retinopathy (Grade 2), which is considered referable. These findings indicate microvascular damage and ischemia, warranting further evaluation and possible intervention."
+    }
+  },
+  {
+    "image_name": "IDRiD_075.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates a normal fundus with no signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. Therefore, there is no evidence of diabetic retinopathy, and no referral is needed."
+    }
+  },
+  {
+    "image_name": "IDRiD_076.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The description indicates subtle retinal changes with small, faint hemorrhages, but lacks definitive signs of Grade 2 or greater diabetic retinopathy. The absence of significant venous beading, cotton wool spots, and a normal optic disc suggest a low severity level, not warranting referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_077.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 30,
+      "reasoning": "The presence of microaneurysms and small hemorrhages suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no signs of moderate or severe non-proliferative diabetic retinopathy, such as venous beading, cotton wool spots, or neovascularization, which would indicate referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_078.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous beading, or cotton wool spots. Therefore, there is no evidence of referable diabetic retinopathy, and the severity score is 0."
+    }
+  },
+  {
+    "image_name": "IDRiD_079.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The presence of subtle microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no significant hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots, which would indicate more severe retinopathy. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_080.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots. Therefore, there is no evidence of diabetic retinopathy, and the severity score is 0, indicating no referral is necessary."
+    }
+  },
+  {
+    "image_name": "IDRiD_081.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The presence of microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1), which is not considered referable. There are no signs of more severe features such as hemorrhages, exudates, venous changes, or neovascularization that would indicate a higher grade of diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_082.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several microaneurysms and some hemorrhages suggests mild to moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This indicates referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_083.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of several hemorrhages and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR), which is Grade 2. Although there is no neovascularization or venous beading, the irregularity of retinal vessels and the described findings suggest referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_084.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of several microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1). There are no significant hemorrhages, exudates, or neovascularization, which would indicate more severe stages. Therefore, this does not meet the criteria for referable diabetic retinopathy (Grade 2 or greater)."
+    }
+  },
+  {
+    "image_name": "IDRiD_085.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several microaneurysms and some hemorrhages suggests mild to moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This indicates referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_086.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of multiple microaneurysms and hemorrhages suggests at least moderate non-proliferative diabetic retinopathy (NPDR), which is typically classified as Grade 2. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_087.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 70,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR), which is Grade 2 or greater, thus requiring referral. The severity score reflects significant retinal damage but not proliferative changes."
+    }
+  },
+  {
+    "image_name": "IDRiD_088.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 75,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3), which is referable. These findings suggest a high degree of diabetic retinopathy, warranting a referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_089.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 100,
+      "reasoning": "The description indicates significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading, which are consistent with severe diabetic retinopathy, likely Grade 4. This is a clear case of referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_090.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. Therefore, the severity is Grade 0, which does not require referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_091.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of significant retinal hemorrhages and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR), which is Grade 2. Although there is no neovascularization or venous beading, the findings are sufficient for a referral due to the risk of progression."
+    }
+  },
+  {
+    "image_name": "IDRiD_092.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels and optic disc appear normal, suggesting no diabetic retinopathy is present. Therefore, there is no need for referral, and the severity score is 0."
+    }
+  },
+  {
+    "image_name": "IDRiD_093.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of numerous microaneurysms and some hemorrhages suggests at least moderate non-proliferative diabetic retinopathy (Grade 2), which is considered referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_094.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of several retinal hemorrhages and cotton wool spots suggests moderate non-proliferative diabetic retinopathy (NPDR), which is typically classified as Grade 2. Although there is no neovascularization, the extent of hemorrhages and cotton wool spots indicates referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_095.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 0,
+      "reasoning": "The description indicates a normal fundus examination with no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. Therefore, there is no evidence of diabetic retinopathy, and no referral is needed."
+    }
+  },
+  {
+    "image_name": "IDRiD_096.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several microaneurysms and some hemorrhages suggests mild to moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_097.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of numerous microaneurysms and some hemorrhages suggests moderate non-proliferative diabetic retinopathy, which is typically classified as Grade 2. This warrants a referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "IDRiD_098.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy, which is Grade 2 or greater and requires referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_099.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 40,
+      "reasoning": "The presence of several retinal hemorrhages and microaneurysms indicates mild to moderate non-proliferative diabetic retinopathy (NPDR), which is typically classified as Grade 2. Although there is no macular edema or neovascularization, the findings suggest referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_100.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 25,
+      "reasoning": "The description indicates the presence of microaneurysms and small hemorrhages, which are consistent with mild diabetic retinopathy (Grade 1). This does not meet the criteria for referable diabetic retinopathy, which is defined as Grade 2 or greater. Therefore, the referral prediction is no, and the severity score reflects mild diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_101.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 20,
+      "reasoning": "The presence of microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1), which is not considered referable. The description lacks evidence of more severe features such as hemorrhages, exudates, or neovascularization, which would indicate a higher grade and necessitate referral."
+    }
+  },
+  {
+    "image_name": "IDRiD_102.jpg",
+    "llm_response": {
+      "referral": 1,
+      "score": 60,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and exudates suggests moderate non-proliferative diabetic retinopathy, which is Grade 2 or greater, indicating referable diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IDRiD_103.jpg",
+    "llm_response": {
+      "referral": 0,
+      "score": 10,
+      "reasoning": "The presence of only a few microaneurysms suggests mild non-proliferative diabetic retinopathy (Grade 1), which is not considered referable. There are no signs of more advanced diabetic retinopathy such as hemorrhages, exudates, or changes in retinal vessels, indicating a low severity level."
+    }
+  }
+]

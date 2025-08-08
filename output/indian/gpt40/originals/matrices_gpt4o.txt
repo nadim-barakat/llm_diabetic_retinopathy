@@ -1,0 +1,236 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.589     0.971     0.733        34
+           1      0.000     0.000     0.000         5
+           2      0.500     0.688     0.579        32
+           3      0.000     0.000     0.000        19
+           4      1.000     0.154     0.267        13
+
+    accuracy                          0.553       103
+   macro avg      0.418     0.362     0.316       103
+weighted avg      0.476     0.553     0.456       103
+
+Confusion Matrix:
+[[33  1  0  0  0]
+ [ 5  0  0  0  0]
+ [10  0 22  0  0]
+ [ 4  0 15  0  0]
+ [ 4  0  7  0  2]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.70      1.00      0.83        71
+    Referral       1.00      0.06      0.12        32
+
+    accuracy                           0.71       103
+   macro avg       0.85      0.53      0.47       103
+weighted avg       0.80      0.71      0.61       103
+
+Confusion Matrix:
+[[71  0]
+ [30  2]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.70      1.00      0.83        71
+    Referral       1.00      0.06      0.12        32
+
+    accuracy                           0.71       103
+   macro avg       0.85      0.53      0.47       103
+weighted avg       0.80      0.71      0.61       103
+
+Confusion Matrix:
+[[71  0]
+ [30  2]]
+
+
+The model is very conservative — it almost always says “No Referral.”
+
+When it does say “Referral,” it’s accurate, but it very rarely says it.
+
+This makes recall for referrals dangerously low, which is bad in a screening setting — we want to catch all possible referral cases, even at the cost of a few false positives.
+*******
+with 80% flag on 
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.630     1.000     0.773        34
+           1      0.000     0.000     0.000         5
+           2      0.615     0.750     0.676        32
+           3      0.833     0.263     0.400        19
+           4      1.000     0.308     0.471        13
+
+    accuracy                          0.650       103
+   macro avg      0.616     0.464     0.464       103
+weighted avg      0.679     0.650     0.598       103
+
+Confusion Matrix:
+[[34  0  0  0  0]
+ [ 5  0  0  0  0]
+ [ 8  0 24  0  0]
+ [ 4  0 10  5  0]
+ [ 3  0  5  1  4]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.76      1.00      0.87        71
+    Referral       1.00      0.31      0.48        32
+
+    accuracy                           0.79       103
+   macro avg       0.88      0.66      0.67       103
+weighted avg       0.84      0.79      0.74       103
+
+Confusion Matrix:
+[[71  0]
+ [22 10]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.76      1.00      0.87        71
+    Referral       1.00      0.31      0.48        32
+
+    accuracy                           0.79       103
+   macro avg       0.88      0.66      0.67       103
+weighted avg       0.84      0.79      0.74       103
+
+Confusion Matrix:
+[[71  0]
+ [22 10]]
+
+No Referral (Negative Class):
+Recall = 1.00 → GPT correctly identifies all 71 true negatives.
+
+Precision = 0.76 → Of all predictions labeled as "No Referral", 76% were correct.
+
+⚠️ This means it's being overcautious: even if a case should be referred, it's still calling it "No Referral" unless it's very confident.
+
+🔹 Referral (Positive Class):
+Precision = 1.00 → Every case that GPT labels as “Referral” truly is referable.
+
+Recall = 0.31 → But it only catches 31% of the actual referable cases (10 out of 32).
+
+⚠️ It's missing 69% of referable DR cases — potentially vision-threatening oversight.
+Compared to your earlier GPT results without the CNN prompt, where referral recall was just 6%, the CNN prompt boosted recall to 31%, suggesting:
+
+GPT-4o is somewhat responsive to the label injection — it’s more willing to call something referable when you hint that it might be.
+
+However:
+
+The recall is still too low to be clinically safe.
+
+The model is highly precise for referrals — but at the cost of missing most of them.
+
+This behavior is consistent with anchoring bias without sufficient visual understanding.
+
+***********************
+95% flag on 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.667     1.000     0.800        34
+           1      0.000     0.000     0.000         5
+           2      0.667     0.812     0.732        32
+           3      0.875     0.368     0.519        19
+           4      1.000     0.385     0.556        13
+
+    accuracy                          0.699       103
+   macro avg      0.642     0.513     0.521       103
+weighted avg      0.715     0.699     0.657       103
+
+Confusion Matrix:
+[[34  0  0  0  0]
+ [ 5  0  0  0  0]
+ [ 6  0 26  0  0]
+ [ 4  0  8  7  0]
+ [ 2  0  5  1  5]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.79      1.00      0.88        71
+    Referral       1.00      0.41      0.58        32
+
+    accuracy                           0.82       103
+   macro avg       0.89      0.70      0.73       103
+weighted avg       0.85      0.82      0.79       103
+
+Confusion Matrix:
+[[71  0]
+ [19 13]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.79      1.00      0.88        71
+    Referral       1.00      0.41      0.58        32
+
+    accuracy                           0.82       103
+   macro avg       0.89      0.70      0.73       103
+weighted avg       0.85      0.82      0.79       103
+
+Confusion Matrix:
+[[71  0]
+ [19 13]]
+
+Referral Recall:
+This measures how many of the actual patients who needed referral were correctly identified by your model.
+
+What’s Good:
+Referral precision = 1.00: Every time GPT says "refer", it's correct — no false alarms.
+
+Referral recall = 0.41 (↑ from 0.31 at 80% CNN): It now catches 13/32 referable cases.
+
+No referral recall = 1.00: It correctly catches all true negatives (doesn’t refer patients who don’t need it).
+
+Overall accuracy = 82% — a modest improvement over 79% with 80% CNN.
+
+⚠️ What’s Still a Problem:
+Misses 19 of 32 referable cases (59%) — so it's still not safe as a primary screening tool.
+
+It's anchored heavily toward saying “No Referral”, even with stronger CNN hints.
+************
+99% flag Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.630     1.000     0.773        34
+           1      0.000     0.000     0.000         5
+           2      0.632     0.750     0.686        32
+           3      1.000     0.368     0.538        19
+           4      1.000     0.308     0.471        13
+
+    accuracy                          0.670       103
+   macro avg      0.652     0.485     0.493       103
+weighted avg      0.715     0.670     0.627       103
+
+Confusion Matrix:
+[[34  0  0  0  0]
+ [ 5  0  0  0  0]
+ [ 8  0 24  0  0]
+ [ 4  0  8  7  0]
+ [ 3  0  6  0  4]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.77      1.00      0.87        71
+    Referral       1.00      0.34      0.51        32
+
+    accuracy                           0.80       103
+   macro avg       0.89      0.67      0.69       103
+weighted avg       0.84      0.80      0.76       103
+
+Confusion Matrix:
+[[71  0]
+ [21 11]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.77      1.00      0.87        71
+    Referral       1.00      0.34      0.51        32
+
+    accuracy                           0.80       103
+   macro avg       0.89      0.67      0.69       103
+weighted avg       0.84      0.80      0.76       103
+
+Confusion Matrix:
+[[71  0]
+ [21 11]]

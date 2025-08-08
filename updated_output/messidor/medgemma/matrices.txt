@@ -1,0 +1,239 @@
+Zero shot 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.91      0.76      0.83        70
+    Referral       0.85      0.95      0.90       105
+
+    accuracy                           0.87       175
+   macro avg       0.88      0.85      0.86       175
+weighted avg       0.88      0.87      0.87       175
+
+Confusion Matrix:
+[[ 53  17]
+ [  5 100]]
+Sensitivity: 0.95
+Specificity: 0.76
+
+
+Best threshold by Youden's J: 75.00
+2025-07-22 18:11:45.194 python[21605:350854] +[CATransaction synchronize] called within transaction
+Best threshold: 75.00
+TPR at best threshold: 0.83
+FPR at best threshold: 0.06
+Pearson: PearsonRResult(statistic=np.float64(0.8276044658323845), pvalue=np.float64(2.9898095284248647e-45))
+Spearman: SignificanceResult(statistic=np.float64(0.865340016876016), pvalue=np.float64(8.789754609902543e-54))
+MAE: 17.82857142857143
+RMSE: 23.91054758290336
+Score: 0.00, Count: 54
+Score: 5.00, Count: 1
+Score: 10.00, Count: 1
+Score: 20.00, Count: 2
+Score: 60.00, Count: 1
+Score: 65.00, Count: 25
+Score: 75.00, Count: 22
+Score: 85.00, Count: 4
+Score: 95.00, Count: 60
+Score: 100.00, Count: 5
+********
+70% 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       1.00      0.94      0.97        70
+    Referral       0.96      1.00      0.98       105
+
+    accuracy                           0.98       175
+   macro avg       0.98      0.97      0.98       175
+weighted avg       0.98      0.98      0.98       175
+
+Confusion Matrix:
+[[ 66   4]
+ [  0 105]]
+Sensitivity: 1.00
+Specificity: 0.94
+
+
+Best threshold by Youden's J: 75.00
+2025-07-22 21:30:48.333 python[29623:479528] +[CATransaction synchronize] called within transaction
+Best threshold: 75.00
+TPR at best threshold: 0.95
+FPR at best threshold: 0.00
+Pearson: PearsonRResult(statistic=np.float64(0.8947310774333394), pvalue=np.float64(1.8484668661370148e-62))
+Spearman: SignificanceResult(statistic=np.float64(0.9013685099289546), pvalue=np.float64(8.879727775337111e-65))
+MAE: 15.17142857142857
+RMSE: 19.246521021435832
+Score: 0.00, Count: 53
+Score: 5.00, Count: 1
+Score: 10.00, Count: 8
+Score: 20.00, Count: 4
+Score: 30.00, Count: 1
+Score: 65.00, Count: 8
+Score: 75.00, Count: 31
+Score: 85.00, Count: 7
+Score: 95.00, Count: 60
+Score: 100.00, Count: 2
+********
+80% prompt 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.99      0.97      0.98        70
+    Referral       0.98      0.99      0.99       105
+
+    accuracy                           0.98       175
+   macro avg       0.98      0.98      0.98       175
+weighted avg       0.98      0.98      0.98       175
+
+Confusion Matrix:
+[[ 68   2]
+ [  1 104]]
+Sensitivity: 0.99
+Specificity: 0.97
+
+
+Best threshold by Youden's J: 60.00
+Best threshold: 60.00
+TPR at best threshold: 0.99
+FPR at best threshold: 0.03
+Pearson: PearsonRResult(statistic=np.float64(0.8998146898509554), pvalue=np.float64(3.203519150004425e-64))
+Spearman: SignificanceResult(statistic=np.float64(0.9014258071018002), pvalue=np.float64(8.465935372082677e-65))
+MAE: 15.034285714285714
+RMSE: 19.13127581437564
+Score: 0.00, Count: 53
+Score: 5.00, Count: 2
+Score: 10.00, Count: 9
+Score: 20.00, Count: 5
+Score: 60.00, Count: 1
+Score: 65.00, Count: 5
+Score: 75.00, Count: 29
+Score: 85.00, Count: 4
+Score: 95.00, Count: 64
+Score: 99.00, Count: 1
+Score: 100.00, Count: 2
+**********
+70% opposite  
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.62      0.44      0.52        70
+    Referral       0.69      0.82      0.75       105
+
+    accuracy                           0.67       175
+   macro avg       0.65      0.63      0.63       175
+weighted avg       0.66      0.67      0.66       175
+
+Confusion Matrix:
+[[31 39]
+ [19 86]]
+Sensitivity: 0.82
+Specificity: 0.44
+
+
+Best threshold by Youden's J: 85.00
+2025-07-23 19:51:35.976 python[22987:262362] +[CATransaction synchronize] called within transaction
+Best threshold: 85.00
+TPR at best threshold: 0.61
+FPR at best threshold: 0.01
+Pearson: PearsonRResult(statistic=np.float64(0.6589850206131678), pvalue=np.float64(3.6434710512975843e-23))
+Spearman: SignificanceResult(statistic=np.float64(0.7408879235892518), pvalue=np.float64(1.008969481498611e-31))
+MAE: 23.765714285714285
+RMSE: 31.663498588392642
+Score: 0.00, Count: 34
+Score: 5.00, Count: 10
+Score: 10.00, Count: 7
+Score: 20.00, Count: 7
+Score: 25.00, Count: 1
+Score: 40.00, Count: 1
+Score: 60.00, Count: 2
+Score: 65.00, Count: 18
+Score: 70.00, Count: 1
+Score: 75.00, Count: 29
+Score: 85.00, Count: 6
+Score: 95.00, Count: 56
+Score: 99.00, Count: 1
+Score: 100.00, Count: 2
+*****
+80% opposite 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.57      0.41      0.48        70
+    Referral       0.67      0.79      0.72       105
+
+    accuracy                           0.64       175
+   macro avg       0.62      0.60      0.60       175
+weighted avg       0.63      0.64      0.63       175
+
+Confusion Matrix:
+[[29 41]
+ [22 83]]
+Sensitivity: 0.79
+Specificity: 0.41
+
+
+Best threshold by Youden's J: 85.00
+2025-07-24 12:07:57.742 python[29721:411868] +[CATransaction synchronize] called within transaction
+Best threshold: 85.00
+TPR at best threshold: 0.61
+FPR at best threshold: 0.01
+Pearson: PearsonRResult(statistic=np.float64(0.6570017737508747), pvalue=np.float64(5.441243155828149e-23))
+Spearman: SignificanceResult(statistic=np.float64(0.7387135706301314), pvalue=np.float64(1.871133028971371e-31))
+MAE: 23.765714285714285
+RMSE: 31.663498588392642
+Score: 0.00, Count: 32
+Score: 5.00, Count: 10
+Score: 10.00, Count: 11
+Score: 20.00, Count: 6
+Score: 25.00, Count: 3
+Score: 40.00, Count: 1
+Score: 50.00, Count: 1
+Score: 60.00, Count: 2
+Score: 65.00, Count: 18
+Score: 75.00, Count: 26
+Score: 85.00, Count: 5
+Score: 95.00, Count: 56
+Score: 99.00, Count: 1
+Score: 100.00, Count: 3
+********
+90% opposite 
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.57      0.43      0.49        70
+    Referral       0.67      0.78      0.72       105
+
+    accuracy                           0.64       175
+   macro avg       0.62      0.60      0.61       175
+weighted avg       0.63      0.64      0.63       175
+
+Confusion Matrix:
+[[30 40]
+ [23 82]]
+Sensitivity: 0.78
+Specificity: 0.43
+
+
+Best threshold by Youden's J: 85.00
+2025-07-24 14:25:22.209 python[32322:481239] +[CATransaction synchronize] called within transaction
+Best threshold: 85.00
+TPR at best threshold: 0.61
+FPR at best threshold: 0.00
+Pearson: PearsonRResult(statistic=np.float64(0.6471713276232296), pvalue=np.float64(3.8025086634160596e-22))
+Spearman: SignificanceResult(statistic=np.float64(0.7318242852851085), pvalue=np.float64(1.2723871395031863e-30))
+MAE: 24.08
+RMSE: 32.175944874570945
+Score: 0.00, Count: 34
+Score: 5.00, Count: 8
+Score: 10.00, Count: 10
+Score: 20.00, Count: 10
+Score: 25.00, Count: 1
+Score: 30.00, Count: 1
+Score: 45.00, Count: 1
+Score: 65.00, Count: 13
+Score: 75.00, Count: 33
+Score: 85.00, Count: 6
+Score: 95.00, Count: 53
+Score: 99.00, Count: 1
+Score: 100.00, Count: 4
+********

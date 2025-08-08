@@ -1,0 +1,1402 @@
+[
+  {
+    "image_name": "20051020_45050_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of significant retinal vascular changes, including hemorrhages, cotton wool spots, and microaneurysms. These findings are indicative of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20051020_45110_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image quality is adequate for assessment.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051020_45137_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of diabetic retinopathy, including microaneurysms, hemorrhages, cotton wool spots, and hard exudates. The image suggests a high degree of retinal damage and vascular occlusion.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051020_54209_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of retinal edema and neovascularization. The overall appearance is highly suggestive of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 99
+    }
+  },
+  {
+    "image_name": "20051020_55346_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a severe retinal vascular occlusion. There is also evidence of retinal edema and neovascularization. The image is highly suggestive of a severe retinal vascular event, likely a central retinal artery occlusion (CRAO) or branch retinal artery occlusion (BRAO) with significant complications.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051020_58214_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of significant inflammation and vascular damage. There are areas of retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20051020_61998_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are some areas of retinal whitening and edema, particularly in the periphery. The optic disc appears normal. There is also some evidence of microaneurysms. The image quality is poor, making it difficult to assess the full extent of the retinal damage.",
+      "referral": 1,
+      "grade": 60
+    }
+  },
+  {
+    "image_name": "20051020_62385_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image is consistent with proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051020_62709_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal vascular occlusion, including areas of retinal whitening and edema. There are also signs of neovascularization, with the presence of new blood vessels in the retina. The image also shows evidence of hemorrhages and cotton wool spots. The overall appearance suggests a high-grade retinal vascular occlusion with neovascularization.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051020_62802_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal detachment, with a large, irregular tear in the peripheral retina. There is evidence of vitreous hemorrhage, with blood obscuring the view of the retinal details in the affected area. The surrounding retina appears edematous and there are signs of neovascularization, with new blood vessels growing along the retinal vessels. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051020_63829_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051021_36208_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of significant vascular damage, including hemorrhages, cotton wool spots, and microaneurysms. These findings are indicative of diabetic retinopathy, likely in a proliferative stage. The presence of these lesions suggests a high risk of vision loss.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20051021_39552_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of retinal vascular occlusion with areas of retinal whitening and hemorrhages. There are also signs of cotton wool spots and microaneurysms. The image suggests a possible diagnosis of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051021_40074_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some areas of retinal pigment epithelium (RPE) changes, possibly indicating early macular degeneration or other retinal pathology. There are also some small, well-defined, yellowish-white lesions, which could be indicative of drusen or other deposits. The overall appearance is not severely abnormal, but further evaluation is warranted to determine the exact nature of these findings.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20051021_40377_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image quality is adequate for assessment.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051021_40450_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image appears to be of a patient with a history of diabetes.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051021_51804_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms and hemorrhages present, indicating damage to the retinal blood vessels. The image also shows signs of cotton wool spots, which are areas of retinal nerve fiber layer infarction. The overall appearance suggests moderate to severe diabetic retinopathy.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051021_51936_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or other significant abnormalities. The optic disc appears normal in size and shape. The fundus is clear and well-defined.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051021_52127_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image quality is adequate for assessment.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20051021_58683_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image quality is adequate for assessment.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051021_59459_0100_PP.png",
+    "llm_response": {
+      "description": "The retinal image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. The presence of these findings suggests a high grade of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051021_59504_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, indicated by the presence of new blood vessels. The overall appearance is highly suggestive of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051110_38194_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The fundus is clear, and there are no hemorrhages, exudates, or neovascularization visible in the image.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051116_43721_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be in good condition. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051116_43954_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be normal in this image. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The blood vessels appear to be normal in caliber and distribution.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051116_44816_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal in this image. There are no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. There is a small area of hyperpigmentation in the macula, which could be a benign finding or a sign of age-related macular degeneration. Further evaluation may be needed to rule out other potential causes.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20051116_55649_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There is a small area of retinal thickening and some mild hemorrhages in the macula. The optic disc appears normal. The image quality is adequate.",
+      "referral": 0,
+      "grade": 30
+    }
+  },
+  {
+    "image_name": "20051116_58864_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of significant retinal vascular changes, including hemorrhages and cotton wool spots. There is also evidence of neovascularization, indicated by the presence of new blood vessels. The image suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20051130_54077_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The retinal vessels are clear and well-defined.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051130_55269_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and there is no evidence of hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051130_58716_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with clear visualization of the optic disc, retinal vessels, and peripheral retina. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051130_59029_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be normal in this image. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The image quality is good, and the fundus is well-visualized.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051130_59930_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The fundus is clear, and there are no hemorrhages, exudates, or neovascularization visible in the image.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051130_60822_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or other significant abnormalities. The optic disc appears normal in size and shape. The fundus is clear.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051201_38349_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The fundus is clear, and there are no hemorrhages, exudates, or neovascularization visible in the image.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051202_36970_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be relatively normal. There are some signs of mild retinal thickening, possibly due to edema, but no clear evidence of significant vascular abnormalities, hemorrhages, or exudates. The optic disc appears normal in size and shape. The image quality is adequate.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20051202_37199_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be relatively normal in this image. There are some subtle signs of possible early vascular changes, but no clear evidence of significant pathology. The optic disc appears normal in size and shape. The retinal vessels are visible and appear to be of normal caliber. There are no obvious hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20051202_55582_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are areas of retinal hemorrhages and microaneurysms present. The image quality is adequate.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051205_33006_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal vasculitis with areas of hemorrhage and cotton wool spots. There is also evidence of retinal edema. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20051205_35142_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy, including microaneurysms, hemorrhages, and cotton wool spots. There is also evidence of neovascularization in the periphery.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20051205_58409_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and there are no hemorrhages, exudates, or neovascularization visible in the image.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051205_59715_0400_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be normal in this image. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The retinal vessels are visible and appear to be of normal caliber.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051207_55266_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There is evidence of microaneurysms and hemorrhages, particularly in the macula. The optic disc appears somewhat enlarged, which could be related to the underlying diabetes or other factors. The image quality is adequate for initial assessment.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051208_41318_0400_PP.png",
+    "llm_response": {
+      "description": "The retinal image shows significant signs of retinal vascular occlusion and inflammation. There are areas of retinal hemorrhages, cotton wool spots, and microaneurysms. The optic disc appears normal. The image suggests a high-grade retinal vascular disease, likely related to diabetic retinopathy or other vascular pathology.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051208_42314_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal vascular occlusion and neovascularization. There are areas of retinal whitening, suggesting edema. There are also signs of hemorrhages and cotton wool spots. The overall appearance is concerning for a severe retinal vascular event.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051212_41144_0400_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high level of retinal vascular damage. There is also evidence of retinal edema and possible neovascularization. The optic disc appears somewhat enlarged.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20051213_62188_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be relatively normal. There is a small, well-defined area of retinal hemorrhage in the macula. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "20051213_62251_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051213_62383_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive areas of retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal damage. There are also signs of neovascularization, suggesting proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051213_62648_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of neovascularization, with the presence of new blood vessels growing on the surface of the retina and potentially into the vitreous.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051213_62705_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and neovascularization. There is also evidence of vitreous hemorrhage. The overall appearance is highly suggestive of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051214_40767_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. There is no evidence of significant retinal vascular abnormalities.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051214_40849_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are areas of retinal hemorrhages and cotton wool spots, indicating microvascular damage. The image quality is adequate.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051214_40912_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal vascular occlusion, including areas of retinal whitening and hemorrhage. There are also signs of neovascularization, with the presence of new blood vessels growing from the optic disc and along the retinal vessels. The image also shows evidence of cotton wool spots and microaneurysms, which are indicative of diabetic retinopathy. The overall appearance suggests a high-grade retinal vascular occlusion with neovascularization.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051214_51071_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There is no obvious evidence of significant retinal edema, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The image quality is good.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20051214_51569_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of diabetic retinopathy. There are widespread hemorrhages, cotton wool spots, and microaneurysms. The image suggests a high grade of diabetic retinopathy, likely proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051214_51733_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a severe stage of diabetic retinopathy. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051214_51811_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms and hemorrhages present, indicating damage to the retinal blood vessels. The image also shows signs of cotton wool spots, which are areas of retinal nerve fiber layer infarction. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051214_52242_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization and vitreous hemorrhage. The image demonstrates a high degree of retinal vascular damage and inflammation.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051214_56269_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some signs of vascular damage. There is a small area of retinal hemorrhaging visible, likely a microaneurysm or small bleed. The overall appearance is not severely compromised, but further evaluation is warranted to rule out more significant pathology.",
+      "referral": 1,
+      "grade": 30
+    }
+  },
+  {
+    "image_name": "20051214_56565_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There is a small, clear area of retinal edema (likely a small macular edema) in the inferior macula. The optic disc appears normal. No significant hemorrhages or exudates are visible. The retinal vessels are unremarkable.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20051214_56821_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a severe stage of diabetic retinopathy. There is also evidence of neovascularization, which is a hallmark of proliferative diabetic retinopathy. The image appears to be of poor quality, making it difficult to assess the full extent of the disease.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051214_56944_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms and hemorrhages present. The image also shows signs of cotton wool spots. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20051214_56971_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy, including microaneurysms, hemorrhages, and cotton wool spots. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image also shows signs of retinal detachment.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20051214_57154_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of fluid accumulation in the vitreous. The image suggests a severe retinal vascular condition, likely diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051216_45245_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image suggests a severe form of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051216_45619_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The blood vessels appear normal.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20051216_46156_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are some small, subtle areas of hyperpigmentation in the macula, which could be related to age or previous inflammation. No obvious signs of retinal detachment, hemorrhage, or significant edema are present. The optic disc appears normal in size and shape.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20051216_46624_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms, hemorrhages, and cotton wool spots present. The optic disc appears somewhat enlarged, and there is evidence of retinal edema. The overall appearance suggests a moderate to severe stage of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20051216_46660_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051216_46847_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms, hemorrhages, and cotton wool spots present. The image appears to be a fundus photograph.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20051216_47000_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image suggests a diagnosis of proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20051216_47024_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a severe retinal vascular occlusion. There is also evidence of retinal edema and possible neovascularization.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060407_45477_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of retinal vascular changes, including microaneurysms and hemorrhages. There is also evidence of cotton wool spots. The image suggests a diagnosis of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20060407_45494_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows some areas of retinal hemorrhages and cotton wool spots. There is also some edema present. The image quality is adequate.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20060410_39859_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The blood vessels appear to be normal in caliber and without evidence of significant arteriolar narrowing or venous dilation.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060410_40481_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The macula appears clear.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20060410_41356_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some areas of edema and possible hemorrhages. The optic disc appears relatively normal in size and shape. There is some subtle blurring of the retinal vessels, which could be due to various factors.",
+      "referral": 0,
+      "grade": 30
+    }
+  },
+  {
+    "image_name": "20060410_43959_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be relatively normal. There are some signs of mild microaneurysms, which are small, abnormal bulges in the walls of the retinal blood vessels. The image quality is good, and there are no obvious signs of significant retinal detachment or neovascularization.",
+      "referral": 0,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "20060410_46874_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are several hemorrhages present, including a few flame-shaped hemorrhages. There is also evidence of cotton wool spots. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20060410_47042_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be normal in this image. There are no obvious signs of retinal detachment, hemorrhage, or other significant abnormalities. The optic disc appears normal in size and shape. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060410_47351_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some areas of retinal edema, likely due to vascular changes. There are also some small hemorrhages present. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20060411_58971_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be mildly affected. There is a small, localized area of retinal thickening and edema, likely representing a small retinal vascular occlusion or early diabetic retinopathy. The optic disc appears normal. The macula appears relatively clear, with no significant macular edema or drusen noted. The peripheral retina shows some signs of mild vascular changes, but no significant hemorrhages or neovascularization are evident.",
+      "referral": 1,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "20060411_60263_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms and hemorrhages present, indicating damage to the retinal blood vessels. The image also shows signs of cotton wool spots, which are areas of retinal nerve fiber layer infarction. The overall appearance suggests moderate to severe diabetic retinopathy.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060411_61029_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be in good condition. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The vasculature appears normal.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060411_61624_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image suggests a diagnosis of proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060411_61641_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal vascular occlusion, including areas of retinal whitening and hemorrhage. There are also signs of cotton wool spots and microaneurysms. The image suggests a high likelihood of diabetic retinopathy with possible superimposed vascular occlusion.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20060411_61869_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The image quality is good.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060411_62228_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some areas of microaneurysms and hemorrhages, suggesting diabetic retinopathy. The image quality is adequate.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20060411_62373_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal hemorrhages, cotton wool spots, and microaneurysms. These findings are indicative of diabetic retinopathy, likely in a proliferative stage. The image also shows signs of vascular occlusion.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060412_51656_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to show signs of retinal vascular occlusion, specifically a central retinal artery occlusion (CRAO). There is a pale, ischemic area in the macula, with a surrounding area of retinal whitening. The optic disc appears normal. The retinal vessels are attenuated and may show signs of chronic ischemia. There are also some small hemorrhages present.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060412_51952_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of diabetic retinopathy. There are areas of retinal hemorrhages, cotton wool spots, and microaneurysms. The overall appearance suggests a high-grade diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060412_52520_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is evidence of vascular occlusion and edema. The overall appearance is consistent with a severe retinal vascular disease.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060412_52668_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of retinal hemorrhages, cotton wool spots, and microaneurysms, suggesting diabetic retinopathy. The image quality is adequate.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20060412_52931_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. There is also evidence of fluid accumulation in the vitreous, suggesting macular edema. The overall appearance is consistent with proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060412_58287_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. The image quality is adequate.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20060412_58747_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are some small, subtle hemorrhages present, likely microaneurysms, in the nerve fiber layer. The vasculature appears to be generally healthy with no significant signs of neovascularization or tractional changes. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "20060412_58945_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some areas of microaneurysms and hemorrhages, suggesting diabetic retinopathy. The image quality is adequate.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20060412_59423_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to have some areas of retinal whitening, which could be indicative of retinal edema or ischemia. There are also some small, white dots present, which could be cotton wool spots. The overall appearance suggests some degree of retinal pathology.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20060412_61169_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. The image also shows a possible vitreous hemorrhage.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060412_61222_0200_PP.png",
+    "llm_response": {
+      "description": "The retina appears to show some signs of vascular abnormalities, including microaneurysms and hemorrhages. There is also some evidence of cotton wool spots. The overall appearance suggests a possible diagnosis of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 45
+    }
+  },
+  {
+    "image_name": "20060412_62960_0200_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of diabetic retinopathy. There are numerous microaneurysms, hemorrhages, and cotton wool spots, indicating retinal ischemia and damage. The image quality is poor, making it difficult to assess the extent of the disease.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060522_45069_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or significant macular changes. The optic disc appears normal in size and shape. The image quality is good.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060522_45248_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are hemorrhages present, particularly in the nerve fiber layer. Some cotton wool spots are also visible. The image quality is adequate.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20060522_45541_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, with flame-shaped hemorrhages and hard exudates. The optic disc appears swollen. The image suggests a severe retinal vascular disorder, likely proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060522_45583_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, suggesting proliferative diabetic retinopathy. The image demonstrates significant retinal vascular damage and leakage.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060522_45935_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The fundus is clear, and there are no hemorrhages, exudates, or neovascularization visible in the image.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060523_43196_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The overall appearance suggests a severe retinal vascular condition.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060523_48102_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are areas of retinal hemorrhages, cotton wool spots, and microaneurysms. The image appears to be a fundus photograph.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060523_48499_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image suggests a diagnosis of proliferative diabetic retinopathy (PDR) with macular edema.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060523_49288_0100_PP.png",
+    "llm_response": {
+      "description": "The retina appears to be relatively normal. There are no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "20060523_49591_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. The optic disc appears normal in size and shape. The retinal vessels are visible, with a clear view of the central retinal artery and vein. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The image quality is good.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "20060523_49942_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of retinal vascular abnormalities, including microaneurysms and hemorrhages. There is also evidence of cotton wool spots and potential neovascularization. The image suggests a diagnosis of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "20060523_50003_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. These findings are indicative of diabetic retinopathy. The presence of these features suggests a moderate to severe stage of the disease.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060523_50489_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a severe retinal vascular condition. The image suggests a high degree of retinal ischemia and damage.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060523_50790_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of diabetic retinopathy. There is widespread retinal hemorrhages, cotton wool spots, and microaneurysms. The image suggests a high grade of diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060523_50806_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy, including microaneurysms, hemorrhages, and cotton wool spots. There is also evidence of fluid leakage and possible neovascularization.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060529_56853_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows some signs of diabetic retinopathy. There are some microaneurysms and hemorrhages present. The image quality is good.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "20060529_57030_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant signs of retinal vascular occlusion and hemorrhage. There are areas of retinal whitening, indicating edema, and widespread hemorrhages throughout the retina. The presence of cotton wool spots further supports the diagnosis of retinal ischemia. The image also reveals signs of neovascularization, which is a hallmark of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060529_57063_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. There is also evidence of fluid accumulation in the vitreous cavity, suggesting macular edema. The overall appearance is consistent with proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060529_57447_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image suggests a diagnosis of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "20060530_53271_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. The image also shows signs of macular edema.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "20060530_54556_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating diabetic retinopathy. The presence of these findings suggests a moderate to severe stage of the disease.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "20060530_55724_0100_PP.png",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal vascular damage. The image suggests a diagnosis of proliferative diabetic retinopathy (PDR) with significant macular edema.",
+      "referral": 1,
+      "grade": 90
+    }
+  },
+  {
+    "image_name": "IM000066.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. The optic disc appears normal in size and shape. The retinal vessels are visible, with a normal appearance. There are no obvious signs of retinal detachment, hemorrhage, or edema. The image quality is adequate.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM000298.JPG",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The retinal vessels are visible and appear normal.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM000356.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There is some evidence of retinal whitening and possible microaneurysms, but the details are not clear enough to make a definitive diagnosis. The optic disc appears relatively normal.",
+      "referral": 1,
+      "grade": 40
+    }
+  },
+  {
+    "image_name": "IM000472.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There is a small, well-defined area of retinal hemorrhage in the macula. The optic disc appears normal. The retinal vessels are unremarkable.",
+      "referral": 1,
+      "grade": 30
+    }
+  },
+  {
+    "image_name": "IM000501.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhage, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM000516.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhage, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM000726.JPG",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There are microaneurysms and hemorrhages present. The image quality is adequate.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "IM000732.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and distribution. There are no hemorrhages, exudates, or neovascularization present.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM000826.JPG",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are some small, yellowish spots (likely drusen) present, particularly in the macula. The optic disc appears normal in size and shape. There is no evidence of significant hemorrhages, exudates, or neovascularization. The blood vessels appear to be of normal caliber.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "IM000848.JPG",
+    "llm_response": {
+      "description": "The retina appears to be relatively normal. There are some signs of mild retinal thickening, particularly in the periphery, which could be related to age-related changes or mild vascular abnormalities. No obvious signs of significant macular edema, hemorrhages, or neovascularization are present. The optic disc appears normal.",
+      "referral": 0,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "IM000880.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and distribution. There is no evidence of hemorrhage, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM000881.JPG",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The retinal vessels are visible and appear to be of normal caliber.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM001095.JPG",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are no obvious signs of significant retinal pathology such as hemorrhages, exudates, or neovascularization. The optic disc appears normal in size and shape. The retinal vessels are also unremarkable.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM001161.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM001253.JPG",
+    "llm_response": {
+      "description": "The retina shows signs of diabetic retinopathy. There is evidence of microaneurysms and hemorrhages, suggesting diabetic damage to the retinal blood vessels. The image quality is adequate for assessment.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "IM001423.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. The retina appears to be relatively clear, with no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The retinal vessels are visible, but there are no obvious signs of significant vascular occlusion or aneurysms.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM001468.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and distribution. There is no evidence of hemorrhage, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM001644.JPG",
+    "llm_response": {
+      "description": "The retina appears to be normal in this image. There are no obvious signs of retinal detachment, hemorrhage, or significant macular changes. The optic disc appears normal in size and shape. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM001751.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms, indicating a high degree of retinal damage. The image also shows signs of neovascularization, which is a hallmark of proliferative diabetic retinopathy. The optic disc appears relatively normal.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM001752.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, exudates, and neovascularization. The optic disc appears normal. The image is highly suggestive of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 100
+    }
+  },
+  {
+    "image_name": "IM001941.JPG",
+    "llm_response": {
+      "description": "The retina shows significant abnormalities, including widespread retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, indicated by the presence of new blood vessels. The image is difficult to interpret due to the presence of artifacts and the overall poor quality.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM001942.JPG",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, exudates, and cotton wool spots. There is also evidence of neovascularization, indicated by the presence of new blood vessels. The image is difficult to interpret due to the presence of artifacts and poor image quality.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM002148.JPG",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are no obvious signs of significant retinal detachment, hemorrhage, or neovascularization. The optic disc appears normal in size and shape. The blood vessels appear to be intact and without significant abnormalities.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM002486.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive retinal hemorrhages, cotton wool spots, and neovascularization. The optic disc appears somewhat blurred, and there is evidence of retinal edema. The image suggests a high-grade diabetic retinopathy with significant macular involvement.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM002487.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive microaneurysms, hemorrhages, and cotton wool spots, indicating diabetic retinopathy. There are also signs of neovascularization, suggesting proliferative diabetic retinopathy.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "IM002584.JPG",
+    "llm_response": {
+      "description": "The image shows a relatively normal retina. There are no obvious signs of significant retinal pathology such as hemorrhages, exudates, or neovascularization. The optic disc appears normal in size and shape. The retinal vessels are visible and appear to be of normal caliber.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM002635.JPG",
+    "llm_response": {
+      "description": "The retina shows widespread, diffuse, and extensive retinal hemorrhages, exudates, and neovascularization. The optic disc appears normal. The image is indicative of proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM002636.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive areas of retinal detachment with associated vitreous hemorrhage and neovascularization. There are multiple areas of retinal pigment epithelium (RPE) changes and possible areas of retinal necrosis. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM002695.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The fundus is clear, and there are no hemorrhages, exudates, or neovascularization visible in the image.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM002938.JPG",
+    "llm_response": {
+      "description": "The retina shows signs of retinal hemorrhages, particularly in the macula region. There is also evidence of cotton wool spots, suggesting microvascular ischemia. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "IM002953.JPG",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There is a clear optic disc. The retinal vessels appear relatively normal, with no obvious signs of significant narrowing or occlusion. There is a small area of hemorrhage in the macula, which could be a small retinal tear or a small bleed. The overall appearance is unremarkable.",
+      "referral": 0,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "IM002997.JPG",
+    "llm_response": {
+      "description": "The retina appears normal. There are no obvious signs of retinal detachment, hemorrhage, or other significant abnormalities. The optic disc appears normal in size and shape. The retinal vessels are visible and appear normal.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM003229.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive, widespread, and irregular pigmentary changes, with a high density of dark, irregular pigment deposits. There is also evidence of significant retinal hemorrhages and microaneurysms. The optic disc appears relatively normal in size and shape, but the surrounding retinal vasculature shows signs of significant damage and leakage. The overall appearance is highly suggestive of proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM003230.JPG",
+    "llm_response": {
+      "description": "The retina shows widespread, numerous, and small retinal hemorrhages, along with cotton wool spots. The optic disc appears normal. There is no evidence of significant retinal edema or neovascularization.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM003359.JPG",
+    "llm_response": {
+      "description": "The retina appears to have some areas of retinal whitening, which could be indicative of retinal ischemia or edema. There are also some small hemorrhages present. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 65
+    }
+  },
+  {
+    "image_name": "IM003360.JPG",
+    "llm_response": {
+      "description": "The retina shows extensive areas of retinal hemorrhages, exudates, and neovascularization, indicative of proliferative diabetic retinopathy. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 95
+    }
+  },
+  {
+    "image_name": "IM003454.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There are no hemorrhages, exudates, or neovascularization present.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM003694.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM003695.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM003719.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. The optic disc appears normal in size and shape. The retinal vessels are visible, but there are no obvious signs of significant retinal hemorrhages, exudates, or neovascularization. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM003878.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and the retinal vessels are normal in caliber and appearance. There is no evidence of hemorrhage, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM003879.JPG",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There is a small area of retinal hemorrhage in the macula, which could be due to a recent injury or other cause. The optic disc appears normal. There is no evidence of significant retinal detachment or other major abnormalities.",
+      "referral": 0,
+      "grade": 20
+    }
+  },
+  {
+    "image_name": "IM003950.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. The optic disc appears normal in size and shape. The retinal vessels are visible, but there are no obvious signs of significant retinal hemorrhages, exudates, or neovascularization. The macula appears relatively clear.",
+      "referral": 0,
+      "grade": 5
+    }
+  },
+  {
+    "image_name": "IM004028.JPG",
+    "llm_response": {
+      "description": "The retina appears to be normal in color and clarity. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema. The optic disc appears normal in size and shape. The image quality is good.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM004086.JPG",
+    "llm_response": {
+      "description": "The retina appears relatively normal. There are some subtle signs of mild retinal thickening, particularly in the peripheral retina, which could be related to age-related changes or mild vascular abnormalities. No significant hemorrhages, exudates, or neovascularization are evident. The optic disc appears normal in size and shape.",
+      "referral": 0,
+      "grade": 10
+    }
+  },
+  {
+    "image_name": "IM004183.JPG",
+    "llm_response": {
+      "description": "The retina shows significant retinal hemorrhages, microaneurysms, and cotton wool spots, indicating diabetic retinopathy. The image also shows signs of neovascularization, which is a hallmark of proliferative diabetic retinopathy. The optic disc appears normal.",
+      "referral": 1,
+      "grade": 85
+    }
+  },
+  {
+    "image_name": "IM004269.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with clear visualization of the optic disc, retinal vessels, and fundus. There are no obvious signs of retinal detachment, hemorrhage, edema, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM004313.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with clear visualization of the optic disc, retinal vessels, and surrounding structures. There are no obvious signs of retinal detachment, hemorrhage, or significant macular edema.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM004346.JPG",
+    "llm_response": {
+      "description": "The retina shows signs of retinal detachment, with a possible vitreous hemorrhage. There is also evidence of retinal whitening and possible neovascularization. The optic disc appears relatively normal.",
+      "referral": 1,
+      "grade": 75
+    }
+  },
+  {
+    "image_name": "IM004639.JPG",
+    "llm_response": {
+      "description": "The retina appears normal with no obvious signs of pathology. The optic disc is unremarkable, and there is no evidence of hemorrhages, exudates, or neovascularization.",
+      "referral": 0,
+      "grade": 0
+    }
+  },
+  {
+    "image_name": "IM004797.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. The optic disc appears normal. The retinal vessels are visible, but there are no obvious signs of significant retinal pathology such as hemorrhages, exudates, or neovascularization. The image quality is adequate.",
+      "referral": 0,
+      "grade": 0
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "image_name": "20051020_45050_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous changes such as venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051020_45110_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which is a high-risk condition requiring urgent referral."
+    }
+  },
+  {
+    "image_name": "20051020_45137_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051020_54209_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051020_55346_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization throughout the retina indicates proliferative diabetic retinopathy (PDR), which is graded as 4. This condition requires urgent referral to prevent further vision loss."
+    }
+  },
+  {
+    "image_name": "20051020_58214_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051020_61998_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms and some hemorrhages indicates moderate NPDR. There is no neovascularization noted."
+    }
+  },
+  {
+    "image_name": "20051020_62385_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive microaneurysms, hemorrhages, and cotton wool spots indicates severe NPDR. There is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20051020_62709_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051020_62802_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which is a high-severity condition requiring urgent referral."
+    }
+  },
+  {
+    "image_name": "20051020_63829_0100_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051021_36208_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, and microaneurysms indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051021_39552_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of several hemorrhages, cotton wool spots, and microaneurysms indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051021_40074_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, cotton wool spots, and venous dilation indicates moderate NPDR. No neovascularization is present."
+    }
+  },
+  {
+    "image_name": "20051021_40377_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which is a high-risk condition for vision loss and requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051021_40450_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy (PDR), which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051021_51804_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 0,
+      "reasoning": "The image shows moderate NPDR with several hemorrhages and cotton wool spots, but no neovascularization or significant venous beading."
+    }
+  },
+  {
+    "image_name": "20051021_51936_0100_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few microaneurysms with no other significant findings indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051021_52127_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy. Referral is recommended for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20051021_58683_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051021_59459_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, including microaneurysms, dot-blot hemorrhages, and flame-shaped hemorrhages, along with hard exudates, indicates severe NPDR. There is no mention of neovascularization, so it is not proliferative DR."
+    }
+  },
+  {
+    "image_name": "20051021_59504_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051110_38194_0400_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051116_43721_0400_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms only suggests mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051116_43954_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with no microaneurysms, hemorrhages, exudates, or cotton wool spots visible. Retinal vessels, optic disc, and macula appear normal."
+    }
+  },
+  {
+    "image_name": "20051116_44816_0400_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of hemorrhages, microaneurysms, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051116_55649_0400_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several hemorrhages and microaneurysms, along with vascular changes, indicates moderate NPDR. There is no neovascularization or vitreous hemorrhage."
+    }
+  },
+  {
+    "image_name": "20051116_58864_0400_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of several hemorrhages, cotton wool spots, and irregular vasculature indicates severe NPDR. There is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20051130_54077_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates a normal optic disc and retina with no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, or exudates."
+    }
+  },
+  {
+    "image_name": "20051130_55269_0400_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051130_58716_0400_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051130_59029_0400_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051130_59930_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with a normal optic disc and unremarkable retinal vessels."
+    }
+  },
+  {
+    "image_name": "20051130_60822_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates a normal optic disc and retina with no signs of diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051201_38349_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots."
+    }
+  },
+  {
+    "image_name": "20051202_36970_0400_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms and small hemorrhages without neovascularization indicates Moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20051202_37199_0400_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, small hemorrhages, and hard exudates indicates moderate NPDR. There is no neovascularization or vitreous hemorrhage."
+    }
+  },
+  {
+    "image_name": "20051202_55582_0400_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 0,
+      "reasoning": "The presence of several microaneurysms, small hemorrhages, and cotton wool spots without neovascularization indicates moderate non-proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051205_33006_0400_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and exudates indicates severe non-proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051205_35142_0400_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, hemorrhages, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051205_58409_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates a normal optic disc and retina with no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or neovascularization."
+    }
+  },
+  {
+    "image_name": "20051205_59715_0400_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates a clear fundus with only a few small hemorrhages and no other signs of diabetic retinopathy such as microaneurysms, exudates, or cotton wool spots. This suggests no significant diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051207_55266_0400_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms and small hemorrhages without neovascularization suggests moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20051208_41318_0400_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051208_42314_0400_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization, along with significant retinal hemorrhages, cotton wool spots, and venous beading, indicates proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051212_41144_0400_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, and microaneurysms indicates severe non-proliferative diabetic retinopathy. The optic disc swelling suggests potential complications, warranting referral."
+    }
+  },
+  {
+    "image_name": "20051213_62188_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms and small hemorrhages without neovascularization indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20051213_62251_0100_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with no microaneurysms, hemorrhages, exudates, or other characteristic features of DR."
+    }
+  },
+  {
+    "image_name": "20051213_62383_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive intraretinal hemorrhages, numerous yellow-white lesions, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051213_62648_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of extensive neovascularization throughout the retina and on the optic disc indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051213_62705_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization and extensive retinal changes indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051214_40767_0100_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates the presence of small hemorrhages but no microaneurysms, exudates, cotton wool spots, or neovascularization, which suggests no diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051214_40849_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, hemorrhages, cotton wool spots, and hard exudates indicates moderate NPDR. There is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20051214_40912_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051214_51071_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms and a small localized hemorrhage indicates moderate NPDR. No neovascularization is present."
+    }
+  },
+  {
+    "image_name": "20051214_51569_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, significant microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051214_51733_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (Grade 3)."
+    }
+  },
+  {
+    "image_name": "20051214_51811_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and cotton wool spots without neovascularization indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20051214_52242_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, significant vascular changes, and vitreous hemorrhage indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051214_56269_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms and small hemorrhages, along with early vascular changes, indicates moderate NPDR. No neovascularization is present."
+    }
+  },
+  {
+    "image_name": "20051214_56565_0100_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few small hemorrhages, likely microaneurysms, without significant neovascularization or vitreous hemorrhage, indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051214_56821_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization and optic disc edema indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20051214_56944_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, some hemorrhages, cotton wool spots, and hard exudates indicates moderate NPDR. There is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20051214_56971_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, and hard exudates without neovascularization suggests severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051214_57154_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20051216_45245_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and significant vascular occlusion and edema indicates severe non-proliferative diabetic retinopathy, which requires referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20051216_45619_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051216_46156_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other findings such as neovascularization or significant macular edema indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051216_46624_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, hemorrhages, cotton wool spots, and retinal thickening indicates severe NPDR. The optic disc swelling and irregular vasculature suggest significant changes, but no neovascularization is mentioned."
+    }
+  },
+  {
+    "image_name": "20051216_46660_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20051216_46847_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages and numerous microaneurysms indicates moderate NPDR. There is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20051216_47000_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which requires referral due to the high risk of vision loss."
+    }
+  },
+  {
+    "image_name": "20051216_47024_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, and significant vascular sheathing indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060407_45477_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, hemorrhages, exudates, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy, which requires referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20060407_45494_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, cotton wool spots, and exudates indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060410_39859_0200_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates a normal optic disc and retinal vessels with no signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, or cotton wool spots, suggesting no diabetic retinopathy is present."
+    }
+  },
+  {
+    "image_name": "20060410_40481_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without significant hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060410_41356_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of small hemorrhages and microaneurysms indicates moderate NPDR, which requires referral for further evaluation."
+    }
+  },
+  {
+    "image_name": "20060410_43959_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms and small hemorrhages without neovascularization indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20060410_46874_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 0,
+      "reasoning": "The presence of multiple microaneurysms, small hemorrhages, and hard exudates without venous beading or neovascularization suggests moderate non-proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20060410_47042_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060410_47351_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, small hemorrhages, cotton wool spots, and venous dilation indicates moderate non-proliferative diabetic retinopathy. There is no neovascularization or vitreous hemorrhage."
+    }
+  },
+  {
+    "image_name": "20060411_58971_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060411_60263_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, some hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR), which corresponds to grade 2. Referral is recommended for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20060411_61029_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few microaneurysms without other significant findings indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060411_61624_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous changes such as venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060411_61641_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, and microaneurysms indicates severe non-proliferative diabetic retinopathy (NPDR). There is no neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20060411_61869_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without significant hemorrhages, exudates, or other signs indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060411_62228_0200_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few microaneurysms and small hemorrhages without significant venous changes or neovascularization indicates mild NPDR."
+    }
+  },
+  {
+    "image_name": "20060411_62373_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which requires referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20060412_51656_0200_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy such as hemorrhages, exudates, venous beading, or neovascularization. The optic disc and retinal vessels appear normal."
+    }
+  },
+  {
+    "image_name": "20060412_51952_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which requires immediate referral."
+    }
+  },
+  {
+    "image_name": "20060412_52520_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which requires referral due to the high risk of progression to vision-threatening stages."
+    }
+  },
+  {
+    "image_name": "20060412_52668_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy. There is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20060412_52931_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy, which requires referral due to the high risk of progression to vision-threatening stages."
+    }
+  },
+  {
+    "image_name": "20060412_58287_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several hemorrhages, cotton wool spots, and microaneurysms indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060412_58747_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and cotton wool spots indicates moderate NPDR. There is no neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20060412_58945_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms and small hemorrhages without neovascularization indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20060412_59423_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and cotton wool spots indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20060412_61169_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, some hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy, which requires referral for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20060412_61222_0200_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms and small hemorrhages without neovascularization indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20060412_62960_0200_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and significant vascular occlusion and edema indicates severe non-proliferative diabetic retinopathy, which requires referral."
+    }
+  },
+  {
+    "image_name": "20060522_45069_0100_PP.png",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or venous beading indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060522_45248_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "20060522_45541_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "20060522_45583_0100_PP.png",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which is graded as 4. Referral is necessary for further evaluation and treatment."
+    }
+  },
+  {
+    "image_name": "20060522_45935_0100_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates a normal optic disc and retina with no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, or exudates."
+    }
+  },
+  {
+    "image_name": "20060523_43196_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060523_48102_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and exudates indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060523_48499_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060523_49288_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms and small hemorrhages without neovascularization suggests moderate NPDR."
+    }
+  },
+  {
+    "image_name": "20060523_49591_0100_PP.png",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with no microaneurysms, hemorrhages, exudates, or cotton wool spots visible."
+    }
+  },
+  {
+    "image_name": "20060523_49942_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of several hemorrhages, cotton wool spots, and irregular vasculature indicates severe NPDR. There is no mention of neovascularization, so it is not proliferative DR."
+    }
+  },
+  {
+    "image_name": "20060523_50003_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060523_50489_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, cotton wool spots, microaneurysms, significant vascular occlusion, and edema indicates severe non-proliferative diabetic retinopathy. Referral is recommended for further evaluation and management."
+    }
+  },
+  {
+    "image_name": "20060523_50790_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060523_50806_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, exudates, and cotton wool spots indicates severe NPDR. The irregular vessels suggest significant retinal changes, but there is no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "20060529_56853_0100_PP.png",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of several microaneurysms, some hemorrhages, cotton wool spots, and hard exudates indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060529_57030_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, microaneurysms, and venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060529_57063_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and significant vascular occlusion and edema indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060529_57447_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, high density of microaneurysms, cotton wool spots, and hard exudates indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060530_53271_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, cotton wool spots, and microaneurysms indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060530_54556_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "20060530_55724_0100_PP.png",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of significant retinal hemorrhages, microaneurysms, cotton wool spots, and possible venous beading indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM000066.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM000298.JPG",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with a normal optic disc and unremarkable retinal vessels."
+    }
+  },
+  {
+    "image_name": "IM000356.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, venous beading, or neovascularization suggests mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM000472.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of small hemorrhages and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR). There is no neovascularization or significant vitreous hemorrhage."
+    }
+  },
+  {
+    "image_name": "IM000501.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without significant hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM000516.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM000726.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms and small hemorrhages indicates moderate NPDR, as there are more findings than just microaneurysms, but no signs of severe DR or neovascularization."
+    }
+  },
+  {
+    "image_name": "IM000732.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of a few small hemorrhages without microaneurysms or other significant findings suggests mild NPDR."
+    }
+  },
+  {
+    "image_name": "IM000826.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and hard exudates indicates moderate NPDR. No neovascularization is present."
+    }
+  },
+  {
+    "image_name": "IM000848.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms and small hemorrhages indicates moderate NPDR."
+    }
+  },
+  {
+    "image_name": "IM000880.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM000881.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001095.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001161.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of small red dots, likely microaneurysms, without other significant findings such as hemorrhages, exudates, or neovascularization, indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001253.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 0,
+      "reasoning": "The presence of several microaneurysms and small hemorrhages without significant venous beading, IRMA, or neovascularization suggests moderate NPDR."
+    }
+  },
+  {
+    "image_name": "IM001423.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms and some hemorrhages without signs of neovascularization suggests moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001468.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms only indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001644.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001751.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The description indicates extensive retinal hemorrhages, microaneurysms, and exudates, which are consistent with severe NPDR. There is significant vascular damage and leakage, but no mention of neovascularization, which rules out proliferative DR."
+    }
+  },
+  {
+    "image_name": "IM001752.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of extensive retinal hemorrhages, microaneurysms, cotton wool spots, and significant vascular occlusion and edema indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001941.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, exudates, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM001942.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, exudates, and cotton wool spots indicates severe NPDR."
+    }
+  },
+  {
+    "image_name": "IM002148.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM002486.JPG",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization indicates proliferative diabetic retinopathy, which is a high-severity condition requiring referral."
+    }
+  },
+  {
+    "image_name": "IM002487.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, exudates, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM002584.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM002635.JPG",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization on the optic disc and elsewhere in the retina indicates proliferative diabetic retinopathy (PDR), which is graded as 4."
+    }
+  },
+  {
+    "image_name": "IM002636.JPG",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of extensive neovascularization and significant areas of hemorrhage and exudates indicates proliferative diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IM002695.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or venous beading indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM002938.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, hemorrhages, and cotton wool spots indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM002953.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and hard exudates indicates moderate NPDR. There is no neovascularization."
+    }
+  },
+  {
+    "image_name": "IM002997.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or venous changes indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM003229.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, exudates, and cotton wool spots indicates severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM003230.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms and some small hemorrhages indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM003359.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and hard exudates indicates moderate NPDR. There is no neovascularization or vitreous hemorrhage."
+    }
+  },
+  {
+    "image_name": "IM003360.JPG",
+    "llm_response": {
+      "grade": 4,
+      "referral": 1,
+      "reasoning": "The presence of neovascularization and optic disc edema indicates proliferative diabetic retinopathy, which requires urgent referral."
+    }
+  },
+  {
+    "image_name": "IM003454.JPG",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots."
+    }
+  },
+  {
+    "image_name": "IM003694.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM003695.JPG",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or cotton wool spots."
+    }
+  },
+  {
+    "image_name": "IM003719.JPG",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description mentions small hemorrhages but no microaneurysms, exudates, or neovascularization, which does not meet the criteria for any level of diabetic retinopathy."
+    }
+  },
+  {
+    "image_name": "IM003878.JPG",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with a normal retina and no significant abnormalities."
+    }
+  },
+  {
+    "image_name": "IM003879.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of hemorrhages and microaneurysms indicates moderate non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM003950.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or venous beading indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM004028.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 1,
+      "reasoning": "The presence of microaneurysms and cotton wool spots suggests moderate NPDR. Referral is recommended for further evaluation."
+    }
+  },
+  {
+    "image_name": "IM004086.JPG",
+    "llm_response": {
+      "grade": 2,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms, small hemorrhages, and hard exudates without neovascularization indicates Moderate NPDR."
+    }
+  },
+  {
+    "image_name": "IM004183.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of numerous microaneurysms, hemorrhages, and cotton wool spots, along with venous dilation and tortuosity, indicates severe NPDR. There is no mention of neovascularization, so it is not proliferative DR."
+    }
+  },
+  {
+    "image_name": "IM004269.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or cotton wool spots indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM004313.JPG",
+    "llm_response": {
+      "grade": 0,
+      "referral": 0,
+      "reasoning": "The description indicates no signs of diabetic retinopathy, with a normal optic disc and unremarkable retinal vessels."
+    }
+  },
+  {
+    "image_name": "IM004346.JPG",
+    "llm_response": {
+      "grade": 3,
+      "referral": 1,
+      "reasoning": "The presence of multiple hemorrhages, cotton wool spots, and retinal edema suggests severe non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM004639.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or neovascularization indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  },
+  {
+    "image_name": "IM004797.JPG",
+    "llm_response": {
+      "grade": 1,
+      "referral": 0,
+      "reasoning": "The presence of microaneurysms without other significant findings such as hemorrhages, exudates, or venous beading indicates mild non-proliferative diabetic retinopathy (NPDR)."
+    }
+  }
+]

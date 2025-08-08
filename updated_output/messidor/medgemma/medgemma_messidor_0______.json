@@ -1,0 +1,1402 @@
+[
+  {
+    "image_name": "20051020_45050_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The presence of these findings suggests a high degree of diabetic retinopathy. The image appears to be a fundus photograph of a patient with diabetic retinopathy, likely with a high grade of severity.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_45110_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and venous beading. There are also signs of microaneurysms. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_45137_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_54209_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance is consistent with severe diabetic retinopathy, likely proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "score": 100
+    }
+  },
+  {
+    "image_name": "20051020_55346_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and venous beading, indicating a severe level of diabetic retinopathy. There is significant retinal edema and vascular occlusion. The fundus appears congested and inflamed. The presence of these findings suggests a high likelihood of proliferative diabetic retinopathy (PDR) with potential for vitreous hemorrhage.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_58214_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, some appearing as flame-shaped hemorrhages. There are also some cotton wool spots visible. The retinal vessels appear somewhat irregular. There is also some evidence of microaneurysms, although they are not as prominent as the hemorrhages and cotton wool spots.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051020_61998_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are no clear signs of microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The image quality is poor, making it difficult to assess for subtle findings. The optic disc appears normal. There are no obvious cotton wool spots. The retinal vessels are not clearly defined. The image is not suitable for a definitive diagnosis of diabetic retinopathy.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051020_62385_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots, indicating a high degree of diabetic retinopathy. There is also evidence of venous beading. The overall appearance suggests a severe case of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_62709_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal findings suggestive of diabetic retinopathy. There are numerous microaneurysms present throughout the retina. There are also hemorrhages, both dot and blot, scattered across the fundus. Cotton wool spots are visible, indicating areas of retinal ischemia. There is some evidence of venous beading, further supporting the diagnosis of diabetic retinopathy. The overall appearance is consistent with a high-grade diabetic retinopathy, likely at least Grade 3, possibly approaching Grade 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_62802_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal findings suggestive of diabetic retinopathy. There are numerous microaneurysms scattered throughout the retina. There are also hemorrhages present, including flame-shaped hemorrhages and dot-blot hemorrhages. There are also signs of cotton wool spots, indicating areas of retinal ischemia. There is also evidence of venous beading, suggesting significant retinal vascular damage. There is also evidence of neovascularization, which is a sign of proliferative diabetic retinopathy. The overall appearance is highly suggestive of a severe stage of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051020_63829_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is good, and there are no significant artifacts.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051021_36208_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present, particularly in the nerve fiber layer. There are also several hemorrhages, some of which appear to be flame-shaped. There are also some cotton wool spots visible. The retinal vessels appear to be somewhat irregular. There is also evidence of exudates present.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051021_39552_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, some appearing as small, red dots. There are also some areas of retinal edema, which appear as slightly blurred or indistinct areas. There are also some areas of cotton wool spots, which appear as small, white dots. There is some evidence of microaneurysms, although they are not as prominent as the hemorrhages.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051021_40074_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several retinal findings present. There are some microaneurysms visible, particularly in the nerve fiber layer. There are also some hemorrhages present, which appear as small, red spots. There are some cotton wool spots present, which appear as fluffy, white patches. There is some venous dilation present, which appears as thickened, tortuous veins. There is no evidence of neovascularization or significant macular edema.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051021_40377_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy. There is also evidence of neovascularization.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051021_40450_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy, likely Grade 4. There is also evidence of neovascularization.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051021_51804_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, including flame-shaped hemorrhages. There are also some cotton wool spots visible. The retinal vessels appear somewhat attenuated. No clear signs of neovascularization are evident in this image.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051021_51936_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots. The retinal vessels appear normal in caliber and distribution. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051021_52127_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is evidence of venous dilation and tortuosity. The overall appearance suggests a high degree of diabetic retinopathy, likely Grade 3 or 4. There is also evidence of neovascularization, which is a sign of proliferative diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051021_58683_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The overall appearance suggests a high degree of diabetic retinopathy. There is also evidence of exudates.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051021_59459_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The overall appearance suggests a high grade of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051021_59504_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms throughout the retina. There is significant vascular occlusion and edema. The presence of neovascularization is also evident. The overall appearance is consistent with severe diabetic retinopathy, likely Grade 4.",
+      "referral": 1,
+      "score": 100
+    }
+  },
+  {
+    "image_name": "20051110_38194_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retina appears relatively normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051116_43721_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. There are no cotton wool spots visible in this image.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051116_43954_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear view of the retinal fundus. There are no obvious signs of significant diabetic retinopathy. The retinal vessels appear normal in caliber and distribution. No microaneurysms, hemorrhages, exudates, cotton wool spots, or neovascularization are readily apparent. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051116_44816_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with a relatively clear optic disc. There are some hemorrhages present, appearing as small, red spots. There are also some microaneurysms, which are small, red, and dot-like. The vasculature appears generally normal, with no significant venous changes or neovascularization visible in this image. No cotton wool spots are apparent.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051116_55649_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some hemorrhages present, particularly in the nerve fiber layer. There are also some cotton wool spots visible. The vasculature appears relatively normal, with no significant venous beading or neovascularization evident in this image. The optic disc appears normal.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051116_58864_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, particularly in the nerve fiber layer. There are also some cotton wool spots visible. The retinal vessels appear somewhat irregular. There is some evidence of exudates. The overall appearance suggests a moderate to severe diabetic retinopathy.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051130_54077_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051130_55269_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051130_58716_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051130_59029_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051130_59930_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051130_60822_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051201_38349_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots. The image appears to be a normal fundus examination.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051202_36970_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, likely in the nerve fiber layer as well. The vasculature appears somewhat irregular. No significant cotton wool spots or venous beading are immediately apparent, but a more detailed examination would be needed to rule them out completely. The image quality is adequate for initial assessment.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051202_37199_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some signs of retinal changes present. There are some hemorrhages present. There are some cotton wool spots present. There are some venous changes present. There are some microaneurysms present. There are some exudates present. There are some signs of neovascularization present. There are some signs of venous beading present.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051202_55582_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are several signs of diabetic retinopathy present. There are microaneurysms, hemorrhages, and cotton wool spots. There is also some venous beading. The overall appearance suggests diabetic retinopathy, likely at least Grade 2.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051205_33006_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of retinal edema. The overall appearance suggests a high level of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051205_35142_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, including flame-shaped hemorrhages. There are also some cotton wool spots visible. There are also signs of microaneurysms. The image also shows some vascular changes, including venous beading. There are also signs of retinal edema.",
+      "referral": 1,
+      "score": 85
+    }
+  },
+  {
+    "image_name": "20051205_58409_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051205_59715_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear retinal view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is good, allowing for a detailed examination.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051207_55266_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, likely in the nerve fiber layer. The retinal vessels appear somewhat irregular. There is also some cotton wool spots present. The image quality is adequate, but some details are difficult to discern due to the contrast and the presence of artifacts. The optic disc appears normal.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051208_41318_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The overall appearance suggests a high degree of diabetic retinopathy, likely Grade 4. There is also evidence of retinal edema.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051208_42314_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and signs of neovascularization. There is evidence of retinal edema and vascular changes. The overall appearance suggests a high-grade diabetic retinopathy, likely Grade 3 or 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051212_41144_0400_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The optic disc appears somewhat swollen. The overall appearance suggests a high grade of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051213_62188_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There is a small microaneurysm present in the macula. There are also some hemorrhages present, likely in the macula. The vasculature appears relatively normal, with no significant venous changes or neovascularization. No cotton wool spots are visible.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051213_62251_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. There are no cotton wool spots visible. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051213_62383_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, particularly in the nerve fiber layer. There are also signs of cotton wool spots, which are indicative of microinfarcts. The presence of these findings suggests a high degree of diabetic retinopathy. There are also signs of venous beading.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051213_62648_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, exudates, and neovascularization. There are numerous microaneurysms present. The fundus appears to be significantly affected by diabetic retinopathy, with evidence of extensive retinal damage. The presence of neovascularization indicates a high-risk stage of the disease.",
+      "referral": 1,
+      "score": 100
+    }
+  },
+  {
+    "image_name": "20051213_62705_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, including new blood vessel growth and possible vitreous hemorrhage. The overall appearance suggests a high degree of diabetic retinopathy, likely Grade 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_40767_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear retinal view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is good, and there are no significant artifacts.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051214_40849_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with evidence of diabetic retinopathy. There are several hemorrhages present, including some that appear to be flame-shaped. There are also some cotton wool spots visible. The retinal vessels appear somewhat irregular. There is no clear evidence of neovascularization or significant venous beading.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051214_40912_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There appears to be some degree of retinal edema. The presence of these findings suggests a high likelihood of diabetic retinopathy. The image also shows signs of retinal detachment, which could be a complication of DR.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_51071_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There is a small, red dot present in the macula, which could represent a microaneurysm or a small hemorrhage. There are also some small hemorrhages visible in the nerve fiber layer. The overall appearance suggests mild diabetic retinopathy.",
+      "referral": 0,
+      "score": 20
+    }
+  },
+  {
+    "image_name": "20051214_51569_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The presence of these findings indicates a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_51733_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy. The presence of these findings indicates a high likelihood of referable diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_51811_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible. The overall appearance suggests a moderate level of diabetic retinopathy.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051214_52242_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and venous beading, indicating a severe level of diabetic retinopathy. There are also signs of retinal detachment and significant vascular changes throughout the retina. The overall appearance is highly suggestive of proliferative diabetic retinopathy (PDR) with vitreous hemorrhage.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_56269_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the right eye. There is evidence of diabetic retinopathy. Specifically, there are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible. The vascular pattern appears somewhat irregular. No significant cotton wool spots or venous beading are immediately apparent, but a more detailed examination is needed to rule them out completely. The image quality is adequate for initial assessment.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20051214_56565_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small hemorrhages present, likely microaneurysms, in the nerve fiber layer. The retinal vessels appear relatively normal in caliber. There are no significant signs of neovascularization or cotton wool spots. The optic disc appears normal.",
+      "referral": 0,
+      "score": 10
+    }
+  },
+  {
+    "image_name": "20051214_56821_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy, potentially with neovascularization. The presence of these findings indicates a high risk of vision loss.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_56944_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, suggesting leakage from damaged blood vessels. Some cotton wool spots are also present, indicating areas of retinal ischemia. The overall appearance suggests a moderate level of diabetic retinopathy.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051214_56971_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with significant signs of diabetic retinopathy. There are numerous microaneurysms present, particularly in the nerve fiber layer. There are also hemorrhages, some appearing as flame-shaped hemorrhages. There are signs of cotton wool spots, indicating areas of retinal ischemia. There are also signs of venous beading, suggesting vascular compromise. There is also evidence of neovascularization, specifically in the form of new blood vessel growth. The overall appearance is consistent with a high-grade diabetic retinopathy, likely Grade 3 or 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051214_57154_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading and possible neovascularization. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051216_45245_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051216_45619_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20051216_46156_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some hemorrhages present, likely microaneurysms. There are no signs of significant neovascularization, cotton wool spots, or venous beading. The image appears to be a relatively early stage of diabetic retinopathy.",
+      "referral": 0,
+      "score": 20
+    }
+  },
+  {
+    "image_name": "20051216_46624_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, particularly in the nerve fiber layer. There are also some cotton wool spots visible. The retinal vessels appear somewhat irregular. There is also some evidence of microaneurysms, although they are not as prominent as the hemorrhages and cotton wool spots. There is also some evidence of retinal thickening. The optic disc appears somewhat enlarged.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20051216_46660_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy. The presence of these findings indicates a high likelihood of referable diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051216_46847_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present, particularly in the macular region. There are also hemorrhages, which appear as red spots, scattered throughout the retina. Some cotton wool spots are visible, indicating areas of retinal ischemia. The overall appearance suggests a moderate to severe diabetic retinopathy.",
+      "referral": 1,
+      "score": 85
+    }
+  },
+  {
+    "image_name": "20051216_47000_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20051216_47024_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060407_45477_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, some appearing as dot-blot hemorrhages. There are also some cotton wool spots visible. The retinal vessels appear somewhat irregular. There is some evidence of microaneurysms, although they are not as prominent as the hemorrhages. The overall appearance suggests a moderate to severe diabetic retinopathy.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060407_45494_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, suggesting some degree of vascular damage. The retinal vessels appear somewhat irregular. There is also some evidence of cotton wool spots, which are indicative of retinal ischemia. The image quality is adequate, but further examination would be needed to fully assess the extent of the disease.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060410_40481_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are some microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages, likely small, scattered throughout the retina. No significant cotton wool spots or venous beading are immediately apparent. The optic disc appears normal. The image quality is adequate for a preliminary assessment.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060410_41356_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some signs of diabetic retinopathy present. There are some hemorrhages present, and some microaneurysms are visible. The image quality is not optimal, making it difficult to assess for more advanced features like cotton wool spots or neovascularization. The image is not clear enough to definitively grade the severity of the diabetic retinopathy.",
+      "referral": 1,
+      "score": 60
+    }
+  },
+  {
+    "image_name": "20060410_43959_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are several hemorrhages present, particularly in the nerve fiber layer. There are also some microaneurysms visible. The vasculature appears somewhat irregular. No significant cotton wool spots or neovascularization are immediately apparent.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060410_46874_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macula. There are also some hemorrhages visible. The optic disc appears normal. No significant cotton wool spots or venous beading are evident.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060410_47042_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus photograph of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The image appears to be a normal fundus examination.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060410_47351_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, likely in the nerve fiber layer as well. There are some cotton wool spots present. The retinal vessels appear to be somewhat attenuated, suggesting some degree of vascular damage. There is some evidence of venous dilation, which could be indicative of diabetic retinopathy.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060411_58971_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, likely small and dot-like. There are some cotton wool spots present, indicating areas of retinal ischemia. The optic disc appears normal. There is no evidence of significant venous beading or neovascularization.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060411_60263_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macula. There are also hemorrhages, some of which appear to be flame-shaped. There are also some cotton wool spots visible. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060411_61029_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear retinal view. There are no obvious signs of significant diabetic retinopathy. The vasculature appears normal, and there are no microaneurysms, hemorrhages, exudates, cotton wool spots, or neovascularization visible. The fundus appears to be in a relatively healthy state.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060411_61624_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high grade of diabetic retinopathy, likely Grade 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060411_61641_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is evidence of venous beading. The overall appearance suggests a high grade of diabetic retinopathy, likely Grade 3 or 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060411_61869_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, neovascularization, or cotton wool spots. The optic disc appears normal. The retinal vessels are visible, but no specific abnormalities are noted.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060411_62228_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible. The overall appearance suggests mild to moderate diabetic retinopathy.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060411_62373_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots, indicating a high degree of diabetic retinopathy. There are also signs of venous beading. The overall appearance suggests a severe case of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060412_51656_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible. The vasculature appears somewhat irregular. No significant cotton wool spots or venous beading are immediately apparent.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060412_51952_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060412_52520_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060412_52668_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, particularly in the nerve fiber layer. Some cotton wool spots are also visible. There is some evidence of microaneurysms, although they are not as prominent as the hemorrhages. The overall appearance suggests moderate diabetic retinopathy.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060412_52931_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There are also signs of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060412_58287_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, particularly in the nerve fiber layer. Some cotton wool spots are also visible. There is some evidence of microaneurysms, although they are not as prominent as the hemorrhages. The overall appearance suggests a moderate level of diabetic retinopathy.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060412_58747_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some hemorrhages present, particularly in the nerve fiber layer. Some microaneurysms are also visible. The vasculature appears relatively normal, with no significant venous changes or neovascularization. There are no cotton wool spots or significant exudates. The optic disc appears normal.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060412_58945_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible. The image quality is adequate, allowing for some assessment of the retinal vasculature.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060412_59423_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are some areas of retinal whitening, which could be indicative of early diabetic retinopathy. There are also some small, white dots that could be microaneurysms. There are also some areas of hemorrhages. The image quality is not ideal, making it difficult to assess for more advanced features like neovascularization or cotton wool spots. The image also shows some signs of macular edema.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060412_61169_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several hemorrhages present, some appearing as dot-blot hemorrhages. There are also some cotton wool spots visible. The retinal vessels appear somewhat irregular. There is also some evidence of microaneurysms, although they are not as prominent as the hemorrhages and cotton wool spots.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060412_61222_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible, suggesting some degree of vascular damage. The overall appearance indicates some degree of diabetic retinopathy, likely at least Grade 2.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060412_62960_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows widespread retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060522_45069_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The image is likely a normal fundus examination.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060522_45248_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are several hemorrhages present, particularly in the nerve fiber layer. There are also some microaneurysms visible. The image also shows some cotton wool spots. The optic disc appears normal. There is no evidence of significant neovascularization or venous beading.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060522_45541_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a severe form of diabetic retinopathy, likely proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "score": 100
+    }
+  },
+  {
+    "image_name": "20060522_45583_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading and significant retinal edema. The overall appearance suggests a high degree of diabetic retinopathy, potentially with neovascularization. The fundus appears quite congested and inflamed.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060522_45935_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The image quality is good, allowing for a detailed examination.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060523_48102_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible. The overall appearance suggests a moderate to severe diabetic retinopathy. There are also some signs of cotton wool spots.",
+      "referral": 1,
+      "score": 85
+    }
+  },
+  {
+    "image_name": "20060523_49288_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are some hemorrhages present, likely in the nerve fiber layer. There are also some microaneurysms present. The vasculature appears relatively normal, with no significant venous changes or neovascularization. No cotton wool spots are visible.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060523_49591_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus view with a clear optic disc and retinal vessels. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, or neovascularization. The vessels appear normal in caliber and distribution. The image is likely a normal fundus examination.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060523_49942_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible, suggesting leakage from damaged blood vessels. Some cotton wool spots are also present, indicating areas of retinal ischemia. The overall appearance suggests a moderate to severe diabetic retinopathy. There is some evidence of retinal thickening, which could be related to edema or other changes associated with DR.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "20060523_50003_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are multiple hemorrhages present, appearing as red spots scattered throughout the fundus. Some areas show signs of cotton wool spots, which appear as fluffy white patches. There are also some areas of retinal edema, which can appear as hazy or cloudy areas. The vasculature appears somewhat irregular, with some areas showing signs of narrowing or blockage. There is also some evidence of microaneurysms, although they are not as prominent as the hemorrhages and cotton wool spots.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060523_50489_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a severe and likely proliferative diabetic retinopathy. The presence of significant hemorrhages and cotton wool spots indicates a high level of retinal damage.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060523_50790_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060523_50806_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are numerous microaneurysms present, particularly in the macula. There are also several hemorrhages, some appearing as flame-shaped hemorrhages. There are also some cotton wool spots present. The overall appearance suggests a moderate to severe diabetic retinopathy. There is also some evidence of exudates.",
+      "referral": 1,
+      "score": 85
+    }
+  },
+  {
+    "image_name": "20060529_56853_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible. The optic disc appears normal. No significant cotton wool spots or venous beading are evident.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "20060529_57030_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy, likely Grade 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060529_57063_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy, likely Grade 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060529_57447_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060530_53271_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, particularly in the nerve fiber layer. There are also signs of cotton wool spots, indicating microinfarcts. The vasculature appears irregular and congested. There is evidence of macular edema, suggested by the blurring of the retinal details in the macula region. The overall appearance suggests a high-grade diabetic retinopathy, likely at least Grade 2.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060530_54556_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows a fundus with significant retinal hemorrhages, particularly in the nerve fiber layer. There are also areas of cotton wool spots present. The vasculature appears to be congested and there are signs of microaneurysms. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060530_55724_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM000066.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The retinal vessels are visible, but there are no specific findings suggestive of DR.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000298.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000356.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is poor, making it difficult to assess for subtle findings. There is some amount of blurriness and some artifacts present.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000472.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are some signs of diabetic retinopathy present. There are some hemorrhages visible, particularly in the nerve fiber layer. There are also some areas of cotton wool spots, which are indicative of microinfarcts. The overall appearance suggests some degree of diabetic retinopathy, but the specific grade is difficult to determine without more detailed information. There is no clear evidence of neovascularization or significant venous changes.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM000501.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal in size and shape. The retinal vessels are visible, but there are no specific abnormalities noted in the vessels themselves. The image quality is adequate, but further examination would be needed to rule out subtle signs of DR.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000516.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is adequate.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000726.JPG",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages visible, suggesting some degree of vascular damage. The overall appearance indicates a moderate level of diabetic retinopathy.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM000732.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, or neovascularization. The retinal vessels appear normal, and the optic disc is unremarkable. The image quality is adequate, but further examination is needed to rule out subtle findings.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000826.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some small, yellowish spots (likely microaneurysms) present, particularly in the macula region. There are also some small hemorrhages visible. The retinal vessels appear relatively normal in terms of venous changes or beading. There are no obvious cotton wool spots or neovascularization present. The image quality is adequate, but further examination is needed to rule out more subtle findings.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM000848.JPG",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is adequate, but further examination is needed to rule out subtle findings.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000880.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM000881.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The image quality is good, and there are no significant artifacts.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM001095.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM001161.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. There are no cotton wool spots visible.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM001253.JPG",
+    "llm_response": {
+      "description": "The image shows signs of diabetic retinopathy. There are several microaneurysms present, particularly in the macular region. There are also some hemorrhages visible, suggesting leakage from damaged blood vessels. The overall appearance indicates some degree of diabetic retinopathy, potentially Grade 2 or greater.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "IM001423.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM001468.JPG",
+    "llm_response": {
+      "description": "The image shows a relatively clear retinal view. There are no obvious signs of significant diabetic retinopathy. The optic disc appears normal. The retinal vessels are visible, but there are no clear signs of microaneurysms, hemorrhages, exudates, venous beading, or cotton wool spots. The image quality is good, and there are no artifacts that would obscure the view of the retina.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM001644.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retina appears relatively normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM001751.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM001752.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance is highly suggestive of proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "score": 100
+    }
+  },
+  {
+    "image_name": "IM001941.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view with a relatively clear optic disc. There are numerous retinal hemorrhages present, appearing as small, red dots scattered throughout the retina. Some areas show evidence of cotton wool spots, which appear as fluffy, white patches. There are also signs of venous dilation and tortuosity, suggesting diabetic microangiopathy. The overall appearance indicates a significant degree of retinal damage due to diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM001942.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view with numerous retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM002148.JPG",
+    "llm_response": {
+      "description": "The image shows a relatively clear retinal view. There are no obvious signs of significant diabetic retinopathy. The optic disc appears normal in size and shape. The retinal vessels are visible, but there are no clear signs of microaneurysms, hemorrhages, exudates, venous beading, or cotton wool spots. The overall appearance suggests no immediate need for referral based on the provided image.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM002486.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of neovascularization, particularly in the peripheral retina. The overall appearance suggests a high-grade diabetic retinopathy, likely Grade 4.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM002487.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus photograph with numerous microaneurysms, hemorrhages, and cotton wool spots. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM002584.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are some subtle signs of microaneurysms, but they are not clearly defined or numerous enough to definitively diagnose diabetic retinopathy. There are no hemorrhages, exudates, venous changes, or neovascularization visible in this image. The optic disc appears normal. The image quality is adequate, but further examination with higher resolution imaging would be needed to rule out early diabetic retinopathy.",
+      "referral": 0,
+      "score": 5
+    }
+  },
+  {
+    "image_name": "IM002635.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are numerous, small, red dots scattered throughout the retina, which are likely microaneurysms. There are also some areas of retinal hemorrhages present. The optic disc appears normal. There are no clear signs of neovascularization or cotton wool spots. The image quality is not ideal due to the presence of numerous artifacts, making it difficult to assess the full extent of the disease.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM002636.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view with significant retinal changes. There are numerous hemorrhages present, appearing as red spots. There are also signs of exudates, which appear as fluffy white areas. The retinal vessels are distorted and irregular. There is evidence of neovascularization, with new, fragile blood vessels growing on the optic disc and elsewhere. The overall appearance suggests a high-grade diabetic retinopathy, likely proliferative diabetic retinopathy (PDR).",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM002695.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM002938.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are some hemorrhages present, particularly in the nerve fiber layer. Some microaneurysms are also visible. The retinal vessels appear relatively normal in terms of venous beading or significant narrowing. There is no clear evidence of neovascularization or cotton wool spots. The optic disc appears normal.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM002953.JPG",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are some signs of diabetic retinopathy present. There are some hemorrhages visible, particularly in the nerve fiber layer. There are also some signs of microaneurysms, although they are not as prominent as the hemorrhages. The vasculature appears somewhat irregular. There are no clear signs of neovascularization or cotton wool spots. The image quality is adequate.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM002997.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM003229.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus with widespread retinal hemorrhages, microaneurysms, and cotton wool spots. There is also evidence of venous beading. The presence of these findings indicates a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM003230.JPG",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, appearing as red spots scattered throughout the fundus. There are also signs of cotton wool spots, which appear as fluffy white patches. The optic disc appears normal. There is no clear evidence of neovascularization or venous beading in this image. The overall appearance suggests a high degree of retinal damage.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM003359.JPG",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There are some hemorrhages present, particularly in the nerve fiber layer. Some microaneurysms are also visible. The vasculature appears somewhat irregular. There are no clear signs of significant macular edema or neovascularization. The image quality is adequate, but some areas are less clear due to artifacts or poor lighting.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM003360.JPG",
+    "llm_response": {
+      "description": "The image shows significant retinal findings consistent with proliferative diabetic retinopathy (PDR). There are numerous hemorrhages, including flame-shaped hemorrhages and dot-blot hemorrhages. There are also areas of cotton wool spots, indicating microinfarcts. There are signs of neovascularization, including new blood vessel growth on the optic disc and potentially on the retina itself, although the resolution is limited. The overall appearance suggests a high-grade diabetic retinopathy with significant retinal damage and potential for vision loss.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM003454.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM003694.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The retinal vessels are visible, but there are no specific abnormalities noted in the provided image.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM003695.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM003719.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. There are no cotton wool spots visible.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM003878.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The retinal vessels are visible, but there are no specific findings suggestive of diabetic retinopathy.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM003879.JPG",
+    "llm_response": {
+      "description": "The image shows a retinal fundus. There is a small, well-defined, round, yellowish lesion present in the macula. The surrounding retinal vessels appear normal. No other significant findings are apparent in the image.",
+      "referral": 1,
+      "score": 65
+    }
+  },
+  {
+    "image_name": "IM003950.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM004028.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The image appears to be a fundus photograph, but without a clear view of the retinal details, it is impossible to definitively rule out diabetic retinopathy. The image quality is not sufficient to make a diagnosis.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM004086.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the retina. There are no obvious signs of significant diabetic retinopathy. The retinal vessels appear relatively normal in caliber and distribution. No microaneurysms, hemorrhages, exudates, cotton wool spots, or neovascularization are immediately apparent. The optic disc appears normal. The image quality is adequate for a preliminary assessment.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM004183.JPG",
+    "llm_response": {
+      "description": "The image shows significant retinal hemorrhages, microaneurysms, and cotton wool spots. There are also signs of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "IM004269.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. The optic disc appears normal. The retinal vessels are visible, but there are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The image quality is adequate, but further examination is needed to rule out subtle signs of DR.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM004313.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The optic disc appears normal. The retinal vessels are visible, but there are no specific abnormalities noted in the image.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM004346.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view with some signs of diabetic retinopathy. There are several microaneurysms present, particularly in the nerve fiber layer. There are also some hemorrhages, and some cotton wool spots are visible. There is some evidence of venous changes, including some degree of venous dilation. There is some evidence of neovascularization, although it is not very clear. The image quality is not optimal, making it difficult to assess the severity of the DR.",
+      "referral": 1,
+      "score": 75
+    }
+  },
+  {
+    "image_name": "IM004639.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view of the eye. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "IM004797.JPG",
+    "llm_response": {
+      "description": "The image shows a fundus view. There are no obvious signs of diabetic retinopathy such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060410_39859_0200_PP.png",
+    "llm_response": {
+      "description": "The image shows a relatively clear retinal view. There are no obvious signs of diabetic retinopathy, such as microaneurysms, hemorrhages, exudates, venous changes, or neovascularization. The retinal vessels appear normal in caliber and distribution. The optic disc appears normal. The macula appears clear.",
+      "referral": 0,
+      "score": 0
+    }
+  },
+  {
+    "image_name": "20060523_43196_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows extensive retinal hemorrhages, cotton wool spots, and microaneurysms. There is also evidence of venous beading. The overall appearance suggests a high degree of diabetic retinopathy.",
+      "referral": 1,
+      "score": 95
+    }
+  },
+  {
+    "image_name": "20060523_48499_0100_PP.png",
+    "llm_response": {
+      "description": "The image shows significant retinal findings suggestive of diabetic retinopathy. There are numerous microaneurysms scattered throughout the retina. There are also several hemorrhages present, including flame-shaped hemorrhages. There are also signs of cotton wool spots. There is also evidence of venous beading. The overall appearance is one of significant retinal damage.",
+      "referral": 1,
+      "score": 95
+    }
+  }
+]

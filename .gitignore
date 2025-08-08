@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Model weights (MedGemma, LLaMA, etc.)
+*.gguf
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+
+aptos2019-blindness-detection/
+messidor2/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+batch.txt
+error_log.txt
+runner.sh 
+test_set_images/
+
+# Ignore everything in archive/
+archive/*
+
+# But keep these directories so the path exists
+!archive/
+!archive/b_disease_grading/
+!archive/b_disease_grading/B. Disease Grading/
+!archive/b_disease_grading/B. Disease Grading/2. Groundtruths/
+
+# And keep the CSV itself
+!archive/b_disease_grading/B. Disease Grading/2. Groundtruths/b. IDRiD_Disease Grading_Testing Labels.csv

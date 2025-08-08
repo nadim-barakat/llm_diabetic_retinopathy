@@ -1,0 +1,45 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0      0.524     0.971     0.680        34
+           1      0.000     0.000     0.000         5
+           2      0.526     0.625     0.571        32
+           3      0.000     0.000     0.000        19
+           4      1.000     0.077     0.143        13
+
+    accuracy                          0.524       103
+   macro avg      0.410     0.335     0.279       103
+weighted avg      0.463     0.524     0.420       103
+
+Confusion Matrix:
+[[33  0  1  0  0]
+ [ 5  0  0  0  0]
+ [12  0 20  0  0]
+ [ 7  0 12  0  0]
+ [ 6  0  5  1  1]]
+Binary Referral Classification Report (based on grade):
+              precision    recall  f1-score   support
+
+ No Referral       0.70      1.00      0.83        71
+    Referral       1.00      0.06      0.12        32
+
+    accuracy                           0.71       103
+   macro avg       0.85      0.53      0.47       103
+weighted avg       0.80      0.71      0.61       103
+
+Confusion Matrix:
+[[71  0]
+ [30  2]]
+Binary Referral Classification Report (based on `referral` field):
+              precision    recall  f1-score   support
+
+ No Referral       0.70      1.00      0.83        71
+    Referral       1.00      0.06      0.12        32
+
+    accuracy                           0.71       103
+   macro avg       0.85      0.53      0.47       103
+weighted avg       0.80      0.71      0.61       103
+
+Confusion Matrix:
+[[71  0]
+ [30  2]]
